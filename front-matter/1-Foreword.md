@@ -12,7 +12,7 @@ This was not the blessing one might imagine. In some ways, a factual description
 
 At one time, the population returned the favor by treating the government with contempt and mentally simplifying the law to "look after your mates" and "it's only a crime if you get caught," but the rise of the internet brought with it ubiquitous surveillance. 
 
-State-controlled media became blatant instruments of propaganda, and cities became luxury prisons. Many of the inmates were quite happy with this until state-sponsored corporate corruption made them poor, with the "protective" system frequently arresting people for vagrancy, which is the crime of being broke and homeless[[ref:1]]. 
+State-controlled media became blatant instruments of propaganda, and cities became luxury prisons. Many of the inmates were quite happy with this until state-sponsored corporate corruption made them poor, with the "protective" system frequently arresting people for vagrancy, which is the crime of being broke and homeless[[ref|1|]]. 
 
 A contradiction of this culture is that despite deeply ingrained lack of trust for politicians, a majority accept at face value the proposition that rules exist for the common good, and therefore it is acceptable to force others to trade freedom for safety.
 
