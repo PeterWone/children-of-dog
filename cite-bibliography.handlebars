@@ -1,14 +1,7 @@
-<!-- Bibliography citation template -->
+<!-- Oxford bibliography citation template -->
+<!-- Processes [ref:id] notation for bibliography entries -->
 <div class="citation-bibliography">
     <p class="bibliography-entry">
-        {{#if author}}<strong>{{author}}</strong>.{{/if}}
-        {{#if year}} ({{year}}).{{/if}}
-        {{#if title}} <em>{{title}}</em>.{{/if}}
-        {{#if publication}} {{publication}}{{/if}}
-        {{#if volume}}, Vol. {{volume}}{{/if}}
-        {{#if issue}}, No. {{issue}}{{/if}}
-        {{#if pages}}, pp. {{pages}}{{/if}}.
-        {{#if doi}} DOI: {{doi}}{{/if}}
-        {{#if url}} Available at: <a href="{{url}}">{{url}}</a>{{/if}}
+        {{#if author}}{{author}}{{/if}}{{#if year}} ({{year}}){{/if}}{{#if title}} '{{title}}'{{/if}}{{#if journal}} <em>{{journal}}</em>{{/if}}{{#if volume}} {{volume}}{{/if}}{{#if issue}}({{issue}}){{/if}}{{#if pages}} {{pages}}{{/if}}{{#if doi}} &lt;https://doi.org/{{doi}}&gt;{{/if}}{{#if url}} &lt;<a href="{{url}}">{{url}}</a>&gt;{{/if}}{{#if abstract}} [Abstract: {{abstract}}]{{/if}}.
     </p>
 </div>

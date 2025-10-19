@@ -3,7 +3,7 @@
 /* Page setup */
 @page {
     size: A5;
-    margin: 1cm;
+    margin: 1.5cm;
     marks: crop cross;
     bleed: 6mm;
 
