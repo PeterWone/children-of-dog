@@ -1,0 +1,12 @@
+<!-- Chapter endnote citation template -->
+<div class="citation-endnote">
+    <p id="endnote-{{id}}">
+        <sup>{{number}}</sup>
+        {{#if author}}{{author}}.{{/if}}
+        {{#if title}}"{{title}}."{{/if}}
+        {{#if publication}}<em>{{publication}}</em>{{/if}}
+        {{#if year}} ({{year}}){{/if}}
+        {{#if pages}}: {{pages}}{{/if}}.
+        <a href="#ref-{{id}}">↩</a>
+    </p>
+</div>

@@ -1,0 +1,7 @@
+{
+  "book-title": "Counterculture",
+  "author": "Eric Blair II",
+  "version": "1.0.0",
+  "description": "description in book.json is optional. In your text as you can use any property you define in this file by surrounding it with double braces, like this: {{book-title}}",
+  "publication-date": "2025-10-18"
+}

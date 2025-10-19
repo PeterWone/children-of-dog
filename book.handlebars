@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{book-title}}</title>
+    <link rel="stylesheet" href="base.css">
+    <link rel="stylesheet" href="front-matter/front-matter.css">
+    <link rel="stylesheet" href="body/body.css">
+    <link rel="stylesheet" href="back-matter/back-matter.css">
+    <script src="assets/js/paged.polyfill.js"></script>
+</head>
+<body>
+    <!-- Title Page -->
+    <section class="title-page">
+        <h1 class="book-title-text">{{book-title}}</h1>
+        <h2>{{description}}</h2>
+        <p>By {{author}}</p>
+        <p>{{publication-date}}</p>
+    </section>
+
+    <!-- Front Matter -->
+    <section class="front-matter">
+        {{#each front}}
+            <section class="front-matter-content">
+                {{{this}}}
+            </section>
+        {{/each}}
+    </section>
+
+    <!-- Body (Main Chapters) -->
+    <section class="body">
+        {{#if body.[0].arcName}}
+            {{!-- Arc-based structure --}}
+            {{#each body}}
+            <section class="arc" data-arc="{{arcName}}">
+                {{#if arcTitle}}
+                <section class="arc-title">
+                    <h1 class="arc-title-text">{{arcTitle}}</h1>
+                </section>
+                {{/if}}
+                {{#each chapters}}
+                <section class="body-content">
+                    {{{this}}}
+                </section>
+                {{/each}}
+            </section>
+            {{/each}}
+        {{else}}
+            {{!-- Simple flat structure --}}
+            {{#each body}}
+            <section class="body-content">
+                {{{this}}}
+            </section>
+            {{/each}}
+        {{/if}}
+    </section>
+
+    <!-- Back Matter -->
+    {{#if back}}
+    <section class="back-matter">
+        {{#each back}}
+            <section class="back-matter-content">
+                {{{this}}}
+            </section>
+        {{/each}}
+    </section>
+    {{/if}}
+
+    <!-- Headings Registry for TOC (if needed) -->
+    <script>
+        window.headingsRegistry = {{{json headings}}};
+    </script>
+</body>
+</html>

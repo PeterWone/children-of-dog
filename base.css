@@ -1,0 +1,95 @@
+/* Base styles for all book sections */
+
+/* Page setup */
+@page {
+    size: A5;
+    margin: 1cm;
+    marks: crop cross;
+    bleed: 6mm;
+
+    @top-left {
+        content: none;
+    }
+
+    @top-center {
+        content: none;
+    }
+
+    @top-right {
+        content: none;
+    }
+
+    @bottom-left {
+        content: none;
+    }
+
+    @bottom-center {
+        content: none;
+    }
+
+    @bottom-right {
+        content: none;
+    }
+}
+
+/* String-set for dynamic content */
+.book-title-text {
+    string-set: book-title content();
+}
+
+.chapter-title-text {
+    string-set: chapter-title content();
+}
+
+.arc-title-text {
+    string-set: arc-title content();
+}
+
+/* Basic typography */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 14pt;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    orphans: 2;
+    widows: 2;
+}
+
+/* Common heading styles */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    break-after: avoid;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+/* Heading size variations */
+h1 {
+    font-size: 18pt;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-size: 14pt;
+    margin-top: 1.5em;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 1em;
+    padding-left: 0.5em;
+    border-left: 4px solid #ccc;
+}
+
+/* Title page styling */
+.title-page {
+    page: title;
+    text-align: center;
+}
+
