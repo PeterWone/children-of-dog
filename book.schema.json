@@ -1,0 +1,95 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Book Metadata Schema",
+  "type": "object",
+  "properties": {
+    "book-title": {
+      "type": "string",
+      "description": "Title of the book"
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "givenNames": {
+            "type": "string",
+            "description": "Author's given names"
+          },
+          "surname": {
+            "type": "string",
+            "description": "Author's surname"
+          }
+        },
+        "required": [
+          "givenNames",
+          "surname"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 1,
+      "description": "List of book authors"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Book version in semantic versioning format (e.g., 1.0.0)"
+    },
+    "description": {
+      "type": "string",
+      "description": "Optional description of the book"
+    },
+    "publication-date": {
+      "type": "string",
+      "format": "date",
+      "description": "Publication date in YYYY-MM-DD format"
+    },
+    "citation-scheme": {
+      "type": "string",
+      "enum": [
+        "aglc",
+        "apa",
+        "chicago_endnotes",
+        "chicago_footnotes",
+        "harvard",
+        "mla",
+        "oxford"
+      ],
+      "description": "Citation style used in the book"
+    },
+    "isbn": {
+      "type": "string",
+      "pattern": "^(978|979)-\\d{1,5}-\\d{1,7}-\\d{1,7}-\\d{1}$",
+      "description": "ISBN-13 number (e.g., 978-0-000000-00-0)"
+    },
+    "publisher": {
+      "type": "string",
+      "description": "Publisher name"
+    },
+    "publisher-address": {
+      "type": "string",
+      "description": "Publisher's physical address"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "Publisher or book website URL"
+    },
+    "contact-email": {
+      "type": "string",
+      "format": "email",
+      "description": "Contact email address"
+    }
+  },
+  "required": [
+    "book-title",
+    "authors",
+    "version"
+  ],
+  "additionalProperties": true,
+  "patternProperties": {
+    "^_": {
+      "description": "Properties starting with underscore are comments or disabled template examples"
+    }
+  }
+}

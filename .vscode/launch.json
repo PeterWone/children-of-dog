@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Book Compiler: Serve",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/../bc/index.js",
+      "args": [
+        "serve"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    }
+  ]
+}

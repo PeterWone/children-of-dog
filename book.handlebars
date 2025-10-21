@@ -8,16 +8,26 @@
     <link rel="stylesheet" href="front-matter/front-matter.css">
     <link rel="stylesheet" href="body/body.css">
     <link rel="stylesheet" href="back-matter/back-matter.css">
-    <script src="assets/js/paged.polyfill.js"></script>
+    <script src="assets/js/smartquotes.js"></script>
+    <script src="assets/js/paged.js"></script>
 </head>
 <body>
     <!-- Title Page -->
+    {{#if titlePage}}
+    <section class="title-page">
+        {{{titlePage}}}
+    </section>
+    {{else}}
+    <!-- Fallback title page if book-title-page.md is missing -->
     <section class="title-page">
         <h1 class="book-title-text">{{book-title}}</h1>
         <h2>{{description}}</h2>
-        <p>By {{author}}</p>
+        {{#each authors}}
+        <p>{{givenNames}} {{surname}}</p>
+        {{/each}}
         <p>{{publication-date}}</p>
     </section>
+    {{/if}}
 
     <!-- Front Matter -->
     <section class="front-matter">
@@ -70,6 +80,28 @@
     <!-- Headings Registry for TOC (if needed) -->
     <script>
         window.headingsRegistry = {{{json headings}}};
+        
+        // Initialize smartquotes and then start PagedJS
+        document.addEventListener('DOMContentLoaded', function() {
+            // First, apply smartquotes to the content
+            if (typeof smartquotes !== 'undefined') {
+                console.log('Applying smartquotes...');
+                smartquotes();
+            }
+            
+            // Then start PagedJS pagination
+            console.log('Available Paged objects:', window.Paged ? Object.keys(window.Paged) : 'Paged not found');
+            
+            if (window.Paged && window.Paged.Previewer) {
+                console.log('Starting PagedJS with Previewer...');
+                let previewer = new window.Paged.Previewer();
+                previewer.preview();
+            } else if (window.Paged) {
+                console.log('Paged object found but no Previewer. Available properties:', Object.keys(window.Paged));
+            } else {
+                console.warn('PagedJS not loaded. Available global objects:', Object.keys(window).filter(k => k.toLowerCase().includes('paged')));
+            }
+        });
     </script>
 </body>
 </html>

@@ -12,9 +12,9 @@ This was not the blessing one might imagine. In some ways, a factual description
 
 At one time, the population returned the favor by treating the government with contempt and mentally simplifying the law to "look after your mates" and "it's only a crime if you get caught," but the rise of the internet brought with it ubiquitous surveillance. 
 
-State-controlled media became blatant instruments of propaganda, and cities became luxury prisons. Many of the inmates were quite happy with this until state-sponsored corporate corruption made them poor, with the "protective" system frequently arresting people for vagrancy, which is the crime of being broke and homeless[[ref|1|]]. 
+State-controlled media became blatant instruments of propaganda, and cities became luxury prisons. Many of the inmates were quite happy with this until state-sponsored corporate corruption made them poor, with the "protective" system frequently arresting people for vagrancy, which is the crime of being broke and homeless[[{ "cite": "walsh2005", "excerpt": "Vagrancy is a real offence. In Australia 2025 it is defined as \"Being in a public place without visible means of support\" ie broke and homeless. Hurrah for the commonwealth that rules for our protection and wellbeing." }]]. 
 
-A contradiction of this culture is that despite deeply ingrained lack of trust for politicians, a majority accept at face value the proposition that rules exist for the common good, and therefore it is acceptable to force others to trade freedom for safety.
+A contradiction of this culture is that despite deeply ingrained lack of trust for politicians, a majority accept at face value the proposition that rules exist for the common good, and therefore it is acceptable to coerce others to trade freedom for safety.
 
 A vile thing pretending to virtue, the government exploits this relentlessly. Mass media are encouraging in their sanctimonious finger-wagging at those who refuse to toe the line. Vanguard activities are reported as irresponsible vigilantism. News reports focus on property damage, tutting at the casual disregard of vanguards for rules and regulations. "Tall poppy syndrome" takes it from there, and the experience of Australasian vanguard is a far cry from the hero worship of the northern hemisphere.
 
@@ -22,9 +22,9 @@ Our protagonist had some luck and happened to hold unencumbered outright freehol
 
 Inevitably it turned out to be something of a mission, as these things do. And then the skies opened, raining murder-weeds.
 
-A man with a big chainsaw isn't the softest target. Chainsaw chaps, well, they'll stop an _Australian_ chainsaw. When the protagonist goes on a weed killing rampage, checking on neighbors and generally protecting his world, a dizzy headache and an invisible friend aren't far away.
+A man with a big chainsaw isn't a soft target. Chainsaw chaps will stop an _Australian_ chainsaw. When the protagonist goes on a weed killing rampage, checking on neighbors and generally protecting his world, a dizzy headache and an invisible friend aren't far away.
 
-One of the neighbors has a dark past and doesn't need a lot of protecting. This fellow goes with him to check on others and clear the weeds.
+One of the neighbors has a dark past and doesn't need a lot of protecting. It's good to have someone to watch your back.
 
 AI Autumn (née Myxoma) knows about project Safe Arbor (Tarnished Honor) and realizes the Australian ecology already exhibits all these characteristics. Reporting this to the Protectors for consideration, she finds herself running a study on resistant ecosystems, allowing limited development of hives to measure and monitor the struggle between two extraordinary ecologies. It wouldn't work in the equally rapacious but nutrient rich African ecologies, but Australia's dearth of key minerals significantly hinders antithesis growth, making such a study possible, if not exactly safe.
 
@@ -40,7 +40,7 @@ The original work wasn't deep. Like other SCS fanfiction, it was escapist power 
 
 Early in 2025, in the course of writing this tale I invented a political event that marked the start of my nation's descent into dystopia. A week later, it actually happened: the Australian government passed an Act of Parliament called the Hate Speech Act, with mandatory prison time for breaches. And who is the arbiter of what is offensive? The government. There's no requirement for any party to actually be offended, only for the speech to be deemed offensive. Exactly as I'd written, they made it illegal to say anything they didn't like. This greatly disturbed me, but having predicted it so accurately made me think I might be on to something. 
 
-And so, in the medium of a power fantasy, I began to explore what was going wrong, and why. This is ground long trod, though not in the context of Australia. Where I leave Orwell behind and break new ground is in having an _answer_ for it. What emerged was a story about more than antithesis and space magic. It became an exploration of why civilisations collapse—not through external conquest or natural disaster, but through a pattern as old as the pyramids: centralisation plus the separation of benefit from consequence equals inevitable decay. Egypt, Rome, Ming China, the Spanish Empire, the British Empire—all fell to the same fundamental mechanism.
+AIn the medium of a power fantasy, I began to explore what was going wrong, and why. This is ground long trod, but I leave Orwell behind in having an _answer_ for it. What emerged was an exploration of why civilisations collapse. Not through external conquest or natural disaster, but through a pattern as old as the pyramids. Egypt, Rome, Ming China, the Spanish Empire, the British Empire—all fell to the same fundamental mechanism.
 
 Unlike those who came before us, you can see the pattern &mdash; I've laid it out for you.
 
@@ -50,6 +50,3 @@ There is hope, and it doesn't require the space magic of the story. It just requ
 
 Y'all ready for this?
 
-
-
-[1] Vagrancy is a real offence. In Australia 2025 it is defined as "Being in a public place without visible means of support" _ie_ broke and homeless. Hurrah for the commonwealth that rules for our protection and wellbeing.

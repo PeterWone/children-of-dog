@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Book Metadata Schema",
+  "type": "object",
+  "properties": {
+    "citation-scheme": {
+      "type": "string",
+      "enum": [
+        "aglc",
+        "apa",
+        "chicago_endnotes",
+        "chicago_footnotes",
+        "harvard",
+        "mla",
+        "oxford"
+      ],
+      "description": "Citation style used in the book"
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the book"
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "given-names": {
+          "type": "string",
+          "description": "Author's given names"
+        },
+        "surname": {
+          "type": "string",
+          "description": "Author's surname"
+        }
+      },
+      "required": [
+        "given-names",
+        "surname"
+      ],
+      "description": "Author information"
+    },
+    "publisher": {
+      "type": "string",
+      "description": "Publisher name"
+    },
+    "publication-year": {
+      "type": "string",
+      "description": "Year of publication"
+    },
+    "isbn": {
+      "type": "string",
+      "description": "ISBN number"
+    }
+  },
+  "required": [
+    "title",
+    "author"
+  ],
+  "additionalProperties": true
+}

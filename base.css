@@ -3,7 +3,7 @@
 /* Page setup */
 @page {
     size: A5;
-    margin: 1.5cm;
+    margin: 1cm;
     marks: crop cross;
     bleed: 6mm;
 
@@ -30,6 +30,7 @@
     @bottom-right {
         content: none;
     }
+    
 }
 
 /* String-set for dynamic content */
@@ -91,5 +92,27 @@ blockquote {
 .title-page {
     page: title;
     text-align: center;
+}
+
+span.footnote {
+    padding-top: 6px;
+    font-size: smaller;
+    float: footnote; /* Hide the full footnote content inline */
+}
+
+.footnote::footnote-call {
+    content: counter(footnote, decimal) " ";
+    vertical-align: super;
+    font-size: 0.8em;
+}
+
+.footnote::footnote-marker {
+    content: counter(footnote) ". ";
+    font-size: 12pt;
+
+    display: inline-block;
+    width: 2em;
+    padding-right: 1em;
+    text-align: right;
 }
 
