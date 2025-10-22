@@ -57,3 +57,7 @@ section.body-content {
 }
 
 /* Chapter content styling can be added here as needed */
+p > img {
+  display: block;
+  margin: 1em;
+}
