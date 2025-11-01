@@ -1,9 +1,9 @@
-# {{book-title}}
+<div class="book-title">{{book-title}}</div>
 
 {{#each authors}}
-## {{givenNames}} {{surname}}
+{{givenNames}} {{surname}}
 {{/each}}
 
-### {{description}}
+{{description}}
 
 Copyright &copy; {{publication-date}}
