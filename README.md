@@ -1,6 +1,6 @@
-# Antipodean Test Book - New Format
+# Children of Dog
 
-This is a test project demonstrating the new book compilation format that simplifies the existing complex system.
+The story Antipodean has been renamed and also heavily reorganised to suit the book compiler I'm also writing.
 
 ## Structure
 
