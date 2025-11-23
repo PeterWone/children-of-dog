@@ -17,7 +17,7 @@ For licensing information, visit: https://github.com/your-company/book-compiler
 
 ---
 
-*Generated on 11/16/2025 using Book Compiler*  
+*Generated on 11/23/2025 using Book Compiler*  
 Copyright © 2025-10-18 - Evaluation Version
 
-<!-- INTEGRITY-HASH: GuHR5gfv10FqF+ST2TsJ3cRdwX8WH67jeMYmtMLgItw= -->
+<!-- INTEGRITY-HASH: bAg1mx/dkLB0E5Iik1O+vcr/vM3+DNZDz9umcUX2ua4= -->
