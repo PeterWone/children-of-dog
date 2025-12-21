@@ -1,0 +1,14 @@
+{
+  "book-title": "Define your book title in book.json",
+  "version": "1.0.0",
+  "description": "description in book.json is optional. In your text as you can use any property you define in this file by surrounding it with double braces, like this: {{book-title}}",
+  "publication-date": "2025-10-18",
+  "citation-scheme": "oxford",
+  "_comment": "Citation scheme options: harvard, apa, mla, oxford, aglc, chicago_footnotes, chicago_endnotes",
+  "_comment2": "Optional publication fields - uncomment and customize as needed:",
+  "_isbn": "978-0-000000-00-0",
+  "_publisher": "Your Publishing Company",
+  "_publisher-address": "123 Publisher Street, Publishing City, PC 12345",
+  "_website": "https://yourwebsite.com",
+  "_contact-email": "contact@yourpublisher.com"
+}

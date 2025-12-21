@@ -1,0 +1,87 @@
+/* Back matter section styles */
+
+/* Section assignment */
+.back-matter {
+    page: back-matter;
+}
+
+/* Page numbering for back matter */
+.back-matter .page-number {
+    counter-increment: page;
+}
+
+.back-matter .page-number::after {
+    content: counter(page, decimal);
+}
+
+/* Back matter page layouts */
+@page back-matter:left {
+    @top-left {
+        content: "Acknowledgments";
+    }
+
+    @bottom-left {
+        content: counter(page);
+    }
+}
+
+@page back-matter:right {
+    @top-right {
+        content: string(book-title);
+    }
+
+    @bottom-left {
+        content: counter(page);
+    }
+}
+
+/* Index styling (commonly found in back matter) */
+.book-index {
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+.book-index h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 1em 0 0.5em 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.2em;
+}
+
+.index-entry {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 0.3em;
+    break-inside: avoid;
+}
+
+.index-term {
+    font-weight: normal;
+}
+
+.index-leader {
+    flex-grow: 1;
+    border-bottom: 1px dotted currentColor;
+    margin: 0 0.5em;
+    height: 0;
+    min-width: 1em;
+}
+
+.index-references {
+    font-size: 0.9em;
+}
+
+.index-page-ref {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* PagedJS page numbering for index */
+.index-page-ref::after {
+    content: target-counter(attr(href), page);
+}
+
+.index-page-ref:hover {
+    text-decoration: underline;
+}
