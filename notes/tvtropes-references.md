@@ -70,16 +70,16 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 ---
 
 ### Dying Earth / Götterdämmerung
-**Manifestation:** Arc 5 "Ragnarök" explicitly invokes twilight-of-civilization trope.
+**Manifestation:** Arc 5 "The High Cost of Living" explicitly invokes twilight-of-civilization trope through infrastructure apocalypse.
 
 **Chapters:** All of Arc 5
 
 **Quote/Evidence:**
 > Chapter title: "Apocalypse Now"
 
-> "In the widening gyre the falcon turned and flew away, heedless of the falconer's helpless bleating." - [02.Apocalypse-Now.md](body/arc-5-ragnarok/02.Apocalypse-Now.md)
+> "In the widening gyre the falcon turned and flew away, heedless of the falconer's helpless bleating." - [02.Apocalypse-Now.md](body/arc-5-the-high-cost-of-living/02.Apocalypse-Now.md)
 
-**Analysis:** Combines Norse Ragnarök with Yeats' "Second Coming" to invoke grand civilizational collapse. Not just personal apocalypse but systematic destruction of centralized power structures.
+**Analysis:** Combines Norse Ragnarök mythology with Yeats' "Second Coming" to invoke grand civilizational collapse. Not just personal apocalypse but systematic destruction of centralized power structures.
 
 ---
 
@@ -253,7 +253,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 **Chapters:** [11.Goad.md](body/arc-4-apotheosis/11.Goad.md)
 
 **Quote/Evidence:**
-> "Grey saw the chessboard in his mind, corner of his mouth twitching up in admiration. He wondered whether he'd have the same commitment himself and briefly envied a the combination of such a pure purpose and the courage to perform a queen sacrifice if it were *him* on the board. But then, the fellow had no choice." - [11.myob.md](body/arc-5-ragnarok/11.myob.md)
+> "Grey saw the chessboard in his mind, corner of his mouth twitching up in admiration. He wondered whether he'd have the same commitment himself and briefly envied a the combination of such a pure purpose and the courage to perform a queen sacrifice if it were *him* on the board. But then, the fellow had no choice." - [11.myob.md](body/arc-5-the-high-cost-of-living/11.myob.md)
 
 **Analysis:** Forest wins if ignored (valley left alone) or if killed (becomes martyr, galvanizes resistance, removes himself as target while preserving his teaching). Classic Xanatos Gambit - plan structured so all outcomes advance your goals. Chess metaphor makes it explicit.
 
@@ -469,7 +469,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 
 **Example: Child Soldier** - Lulu's voluntary augmentation shows horror of competence-over-comfort philosophy pushed to extreme
 
-**Example: AI Companion** - Autumn has own agenda, manipulates events, isn't servant but active agent
+**Example: AI Companion** - "You want me to play god?" / "Not if you don't-" / "I'm in!" - Autumn's eager manipulation rather than reluctant servitude
 
 **Example: Post-Scarcity** - Abundance enables social change but doesn't automatically create utopia; requires conscious rejection of money-centralism cycle
 

@@ -1,8 +1,8 @@
 {
-  "book-title": "Define your book title in book.json",
+  "book-title": "The Long Game",
   "version": "1.0.0",
-  "description": "description in book.json is optional. In your text as you can use any property you define in this file by surrounding it with double braces, like this: {{book-title}}",
-  "publication-date": "2025-10-18",
+  "description": "Children of Dog - Book 2",
+  "publication-date": "2025-12-15",
   "citation-scheme": "oxford",
   "_comment": "Citation scheme options: harvard, apa, mla, oxford, aglc, chicago_footnotes, chicago_endnotes",
   "_comment2": "Optional publication fields - uncomment and customize as needed:",

@@ -19,7 +19,7 @@
 - Walking in and out of history
 - The choosers of the slain
 - Spreading the valley model
-- Arc 5: Ragnarok
+- Arc 5: The High Cost of Living
 
 **Book 4: Autumn and Eloise (Title TBD)**
 - After Forest's death

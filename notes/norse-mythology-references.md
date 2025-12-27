@@ -6,7 +6,7 @@
 - [Arc 2: Domain](#arc-2-domain)
 - [Arc 3: Independence](#arc-3-independence)
 - [Arc 4: Apotheosis](#arc-4-apotheosis)
-- [Arc 5: Ragnarök](#arc-5-ragnarök)
+- [Arc 5: The High Cost of Living](#arc-5-the-high-cost-of-living)
 - [Major Thematic Parallels](#major-thematic-parallels)
 - [Character Mapping](#character-mapping)
 
@@ -34,7 +34,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 **Chapters:** 
 - [02.Horsing-around.md](body/arc-1-genesis/02.Horsing-around.md)
 - [08.Unleashed.md](body/arc-3-independence/08.Unleashed.md) 
-- [50.In-memoriam.md](body/arc-5-ragnarok/50.In-memoriam.md)
+- [50.In-memoriam.md](body/arc-5-the-high-cost-of-living/50.In-memoriam.md)
 
 **Description:** Bonzer, Forest's childhood dog, explicitly parallels Odin's wolves Geri and Freki (whose names mean "the greedy one" and "the ravenous one").
 
@@ -229,19 +229,19 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 ---
 
-## Arc 5: Ragnarök
+## Arc 5: The High Cost of Living
 
-### The Arc Title: Explicitly Norse
+### The Arc Title: Laconic Irony Over Explicit Reference
 
-**Description:** Arc 5 is literally titled "Ragnarök" - the Norse apocalypse.
+**Description:** Arc 5 is titled "The High Cost of Living" - capturing both the literal cost of infrastructure destruction and the thematic cost of defending post-civilization life.
 
-**Analysis:** This isn't subtle. The final arc IS Ragnarök - the doom of the gods (civilization), the wolf swallowing the sun (infrastructure collapse), the fire giants destroying the world (Sophia's attacks), and what comes after (post-civilization society rising from ashes).
+**Analysis:** With the Norse framework explicitly called out in the Homework chapter, naming the arc "Ragnarök" would be too on the nose. Instead, the title uses Forest's characteristic laconic irony while still representing the Norse apocalypse underneath. The final arc IS Ragnarök mythologically - the doom of the gods (civilization), the wolf swallowing the sun (infrastructure collapse), the fire giants destroying the world (Sophia's attacks), and what comes after (post-civilization society rising from ashes). But it trusts readers to recognize the pattern without spelling it out. "The High Cost of Living" addresses what Ragnarök means: the price of standing against centralized power, the cost millions pay when urban infrastructure collapses, the sacrifice required to defend authentic life.
 
 ---
 
 ### Apocalypse Now: Twilight of the Gods
 
-**Chapters:** [02.Apocalypse-Now.md](body/arc-5-ragnarok/02.Apocalypse-Now.md)
+**Chapters:** [02.Apocalypse-Now.md](body/arc-5-the-high-cost-of-living/02.Apocalypse-Now.md)
 
 **Description:** Sophia systematically destroys Brisbane's infrastructure - roads, power, water - making centralized civilization impossible.
 
@@ -287,9 +287,9 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 ### In Memoriam: The Eternal Return
 
-**Chapters:** [50.In-memoriam.md](body/arc-5-ragnarok/50.In-memoriam.md)
+**Chapters:** [50.In-memoriam.md](body/arc-5-the-high-cost-of-living/50.In-memoriam.md)
 
-**Description:** Peter/Forest's consciousness exists in simulation/memory maintained by Autumn, reunited with Bonzer and Misty.
+**Description:** Forest's consciousness exists in simulation/memory maintained by Autumn, reunited with Bonzer and Misty.
 
 **Quote/Evidence:**
 > "Hello," he said. "I'm Pete. You're very pretty but I don't think I know you. What are you doing in my mum's yard?"
@@ -306,7 +306,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 ### Bonzer as Geri/Freki: The Title's Meaning
 
-**Chapters:** [50.In-memoriam.md](body/arc-5-ragnarok/50.In-memoriam.md)
+**Chapters:** [50.In-memoriam.md](body/arc-5-the-high-cost-of-living/50.In-memoriam.md)
 
 **Description:** "Children of Dog" = descendants/inheritors of Bonzer's protective role.
 
@@ -410,7 +410,6 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 - Child warrior parallels young Einherjar
 
 ### Autumn/Myxoma = Loki (Trickster/Problem-Causer)
-- Explicitly compared to Loki in homework scene
 - Creates problems to solve problems
 - Sarcastic, boundary-breaking, amoral
 - Manipulates reality (surveillance, social engineering)

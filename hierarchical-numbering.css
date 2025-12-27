@@ -1,0 +1,65 @@
+/* Base level */
+ol {
+  counter-reset: item;
+  list-style-type: none;
+  padding-left: 2em;
+}
+
+ol > li {
+  counter-increment: item;
+  position: relative;
+}
+
+ol > li:before {
+  content: counters(item, ".") ". ";
+  position: absolute;
+  left: -2em;
+  width: 2em;
+  text-align: left;
+}
+
+/* Second level - wider for two-part numbers */
+ol ol {
+  padding-left: 2.5em;
+}
+
+ol ol > li:before {
+  left: -2.5em;
+  width: 2.5em;
+}
+
+/* Third level - wider for three-part numbers */
+ol ol ol {
+  padding-left: 3.5em;
+}
+
+ol ol ol > li:before {
+  left: -3.5em;
+  width: 3.5em;
+}
+
+/* Fourth level uses lowercase letters in parentheses */
+ol ol ol ol {
+  counter-reset: letter;
+  padding-left: 2em;
+}
+
+ol ol ol ol > li {
+  counter-increment: letter;
+}
+
+ol ol ol ol > li:before {
+  content: "(" counter(letter, lower-alpha) ") ";
+  left: -2em;
+  width: 2em;
+}
+
+ol > li > p:first-of-type {
+  margin: 0;
+  display: inline;
+}
+
+ol > li > p:not(:first-of-type) {
+  display: block;
+  margin: 0.5em 0;
+}

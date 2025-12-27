@@ -52,7 +52,7 @@ Forest had an **epiphany about why civilizations inevitably collapse** - a recur
 - **Centralization pattern**: How concentration of power inevitably leads to capture and collapse
 - **Alternative model**: Valley represents escape from civilization's deadly cycle
 
-### Arc 5: Ragnarok (Consequences)
+### Arc 5: The High Cost of Living
 - **Post-civilization society**: Valley becomes "something not seen for forty thousand years"
 - **Cultural integration complete**: Government/corporate people fully adopted valley life
 - **Existential threat recognized**: Valley residents understand the state will never let them go - they set a dangerous precedent
