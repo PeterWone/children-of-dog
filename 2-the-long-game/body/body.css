@@ -1,0 +1,59 @@
+/* Body section styles (main chapters) */
+
+/* Section assignment */
+section.body {
+    page: body;
+    counter-reset: page;
+}
+
+section.body-content {
+    break-before: right;
+}   
+
+/* Page numbering for body */
+.body .page-number {
+    counter-increment: page;
+}
+
+.body .page-number::after {
+    content: counter(page, decimal);
+}
+
+/* Body page layouts */
+@page body:left {
+    @top-left {
+        content: string(chapter-title);
+    }
+
+    @bottom-left {
+        content: counter(page);
+    }
+}
+
+@page body:right {
+    @top-right {
+        content: string(book-title);
+    }
+
+    @bottom-right {
+        content: counter(page);
+    }
+}
+
+/* Arc styling */
+.arc {
+    page-break-before: right;
+}
+
+.arc-title {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.arc-title h1 {
+    font-size: 24pt;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+/* Chapter content styling can be added here as needed */

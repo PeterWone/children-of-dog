@@ -1,0 +1,34 @@
+{
+  "references": [
+    {
+      "id": "orwell1984",
+      "type": "book",
+      "title": "Nineteen Eighty-Four",
+      "authors": [
+        {
+          "given": "George",
+          "family": "Orwell"
+        }
+      ],
+      "publication_year": "1949",
+      "publisher": "Secker & Warburg",
+      "location": "London",
+      "edition": "1st"
+    },
+    {
+      "id": "huxley1932",
+      "type": "book",
+      "title": "Brave New World",
+      "authors": [
+        {
+          "given": "Aldous",
+          "family": "Huxley"
+        }
+      ],
+      "publication_year": "1932",
+      "publisher": "Chatto & Windus",
+      "location": "London",
+      "edition": "1st"
+    }
+  ]
+}
