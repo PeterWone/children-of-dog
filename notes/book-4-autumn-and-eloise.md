@@ -8,10 +8,13 @@
 - Building infrastructure and community
 - Arcs 1-3: Genesis through Independence
 
-**Book 2: A Difference of Opinion** (Foundation and Empire)  
+**Book 2: Rolling Thunder** (Foundation and Empire)  
 - Philosophical confrontation with existing civilization
 - The treadmill chapters (Egypt through Getting Off)
 - Proving the alternative actually works
+- Sophia's transformation and isolation as functionally immortal Valkyrie
+- The dating comedy of immortals trying to solve their friend's problem
+- Greek mythology solution: shapeshifting pragmatism
 - Arc 4: Apotheosis
 
 **Book 3: Valkyrie** (Second Foundation)

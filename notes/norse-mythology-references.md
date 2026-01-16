@@ -275,6 +275,38 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 **Analysis:** Valkyries choose who dies in battle and escort worthy dead to Valhalla. Sophia quite literally chooses who dies by targeting infrastructure with surgical precision. Her weeping echoes the kenning "Valkyries' tears" (swords/blades dripping blood). She knows the state won't stop, making her the instrument of their doom. The chapter title "And yet she wept" emphasizes the tragedy - like Odin, she sees what must happen and does it anyway, bearing the moral burden.
 
+**Book 2 Title: "Rolling Thunder"**
+
+The title is **polysemous** - multiple meanings existing simultaneously, none more "true" than the others:
+
+1. **Military/Historical:** Operation Rolling Thunder reference, carrying weight of real-world violence
+2. **Functional Metaphor:** Thunder IS what Sophia becomes - the warning of violence, sometimes followed by abrupt unimaginable but localized destruction. Thunder rolls across landscape (reputation spreads), warning before lightning strikes (deterrent before consequence), targeting specific points (chooser of the slain)
+3. **Norse Mythology:** Thor's rolling thunder, divine power made manifest, Ragnarök's approach
+4. **Hidden Comedy:** "Rolling Thunder" = getting the Valkyrie laid. The solution to centuries of sexual frustration that threatens to weaponize her completely. Only visible to readers AFTER finishing the book and recognizing the shapeshifting intervention scene
+5. **Thematic Echo:** Consequences of Book 1's butterfly-wing moment (Forest freeing Autumn) rolling forward through time
+
+The title works as poetry - all meanings present simultaneously, reinforcing each other. Surface reads as military SF gravitas, depths reveal Greek mythology's approach to shapeshifting pragmatism, functional reality describes her actual role as warning/deterrent/surgical violence. The sex joke enriches the mythology, the mythology deepens the violence, the violence makes the joke more profound.
+
+**Sophia as Thunder:**
+- You hear thunder before seeing lightning (warning precedes consequence)
+- Thunder rolls across landscape (her reputation spreads)
+- Makes people take shelter (deterrent function)
+- Sometimes followed by devastating but localized lightning (surgical strikes on specific targets)
+- The storm warning that occasionally becomes the storm
+
+**The Book 2 Arc:**
+- Escalating matchmaking comedy as Autumn/Ellie try to solve Sophia's isolation
+- Failed attempts with academics, other Vanguards, AI companions
+- Ellie's debate: "I'm better at human" - decides to take male form
+- Surprise party energy: hiding fabricator receipts, suspicious behavior
+- The seduction: Sophia meets stranger with "aeons in his eyes" who treats her as peer
+- The reveal: "Ellie?!" / "Surprise?"
+- The squabble: "HOW DARE YOU—" / "YOU WERE GOING TO KILL SOMEONE" / "—MANIPULATE—" / "IT WORKED DIDN'T IT"
+- Resolution through the threatened (but earned) threesome
+- Fade to black
+
+Greek mythology energy: gods solve problems through shapeshifting because they genuinely don't understand why mortals fixate on fixed forms. Bodies as clothing. Gender as aspect of mood. The only peer for an immortal IS another immortal.
+
 ---
 
 ### Fenrir Unchained: Breaking Free
