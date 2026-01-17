@@ -56,7 +56,7 @@
 - Mirror relationship: AI teaching human to transcend human limitations
 
 ### Sophia's Recognition
-- "One girl in transition to another" - recognizes parallel transformation
+- "One girl in transition to another" - recognises parallel transformation
 - Understands choice between strength and conventional safety
 - Sees competence-building rather than victimization
 

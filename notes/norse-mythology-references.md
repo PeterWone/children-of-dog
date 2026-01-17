@@ -12,7 +12,7 @@
 
 ## Overview
 
-Children of Dog is deeply structured around Norse mythology, using the myths not as decorative elements but as **functional patterns** that drive narrative structure, character development, and thematic meaning. The draft Norse mythology homework scene (in notes/) explicitly addresses this, with Forest stating: "The ritual is **doing the work** even when you know how it ends."
+Children of Dog is deeply structured around Norse mythology, using the myths not as decorative elements but as **functional patterns** that drive narrative structure, character development, and thematic meaning. The draught Norse mythology homework scene (in notes/) explicitly addresses this, with Forest stating: "The ritual is **doing the work** even when you know how it ends."
 
 ## Arc 1: Genesis
 
@@ -25,7 +25,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 **Quote/Evidence:**
 > Odin is not an explicitly called out character. He is however the pattern. Forest chose to withdraw from civilization to remote valley, abandoning career and social standing for knowledge of *why civilizations collapse*.
 
-**Analysis:** Odin sacrificed an eye for wisdom. Forest sacrificed comfortable city life and social standing to escape the civilization collapse pattern he recognized. The valley becomes his preparation ground, training others for the doom he knows is coming.
+**Analysis:** Odin sacrificed an eye for wisdom. Forest sacrificed comfortable city life and social standing to escape the civilization collapse pattern he recognised. The valley becomes his preparation ground, training others for the doom he knows is coming.
 
 ---
 
@@ -64,7 +64,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 > "He carried the lad to a stool by the fire and seated him, picking up a knife and a platter, carving off the first cooked meat, steaming and charred. Oleksiy clonked the platter beside the boy and poured a mug of mead, putting it in the boy's hand."
 
-**Analysis:** The longhouse functions exactly as Valhalla does in Norse mythology - a hall where warriors gather, feast, and prepare for final battle. The ritualized serving of meat and mead to warriors after combat mirrors Einherjar rituals. Forest even brews mead with Oleksiy, maintaining Norse traditions of hospitality and warrior culture.
+**Analysis:** The longhouse functions exactly as Valhalla does in Norse mythology - a hall where warriors gather, feast, and prepare for final battle. The ritualised serving of meat and mead to warriors after combat mirrors Einherjar rituals. Forest even brews mead with Oleksiy, maintaining Norse traditions of hospitality and warrior culture.
 
 ---
 
@@ -94,7 +94,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 **Quote/Evidence:**
 > "It was not lost on me that the borer's break for freedom ended right next to the symbol of our nation's ill-fated rebellion. I didn't know what this place was, but the flag gave me an odd sense of kinship with whoever built it, and I didn't want to destroy what remained of the redoubt. It felt like sacrilege."
 
-**Analysis:** Like Odin's quest for knowledge in hidden places (Mimir's well, the runes), Forest seeks understanding in forgotten underground spaces. The Eureka flag symbolizes failed rebellions against centralized power - a pattern Forest now understands fully.
+**Analysis:** Like Odin's quest for knowledge in hidden places (Mimir's well, the runes), Forest seeks understanding in forgotten underground spaces. The Eureka flag symbolises failed rebellions against centralised power - a pattern Forest now understands fully.
 
 ---
 
@@ -149,14 +149,14 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 **Chapters:** [08.Unleashed.md](body/arc-3-independence/08.Unleashed.md)
 
-**Description:** Range Mothers recognized as pattern-weavers who shape the valley's future.
+**Description:** Range Mothers recognised as pattern-weavers who shape the valley's future.
 
 **Quote/Evidence:**
-> "And the Norns weaving fate? That's just pattern recognition given divine form. Cause and effect looked at long enough that you can see where the threads are going. The Range Mothers do it—they don't spin literal thread, they just understand how social networks work well enough that they can make things... inevitable." (from draft homework scene)
+> "And the Norns weaving fate? That's just pattern recognition given divine form. Cause and effect looked at long enough that you can see where the threads are going. The Range Mothers do it—they don't spin literal thread, they just understand how social networks work well enough that they can make things... inevitable." (from draught homework scene)
 
 > "OK, they're recruiting." "It's complicated." Valley mothers undertake long-term campaign to subvert the system through cultural transformation.
 
-**Analysis:** The three Norns (Urðr, Verðandi, Skuld - Past, Present, Future) weave fate at the base of Yggdrasil. The Range Mothers aren't spinning literal thread but weaving social networks, understanding causation well enough to make outcomes inevitable. They recognize the valley's way of life as existential threat to centralized power and work to spread it before the state realizes the danger.
+**Analysis:** The three Norns (Urðr, Verðandi, Skuld - Past, Present, Future) weave fate at the base of Yggdrasil. The Range Mothers aren't spinning literal thread but weaving social networks, understanding causation well enough to make outcomes inevitable. They recognise the valley's way of life as existential threat to centralised power and work to spread it before the state realises the danger.
 
 ---
 
@@ -180,7 +180,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 > "It is on you as to whether you water the seeds of your doom."
 
-**Analysis:** Ragnarök in Norse mythology is the doom of the gods - predicted, inevitable, but faced with courage anyway. Each civilization's collapse follows the same pattern (centralization → capture → corruption → collapse) just as Ragnarök follows prophesied steps. The episodes show that "doom" isn't unique to the valley - it's the universal fate of all centralized systems. Like the Norse, Forest teaches people to face this doom with eyes open.
+**Analysis:** Ragnarök in Norse mythology is the doom of the gods - predicted, inevitable, but faced with courage anyway. Each civilization's collapse follows the same pattern (centralization → capture → corruption → collapse) just as Ragnarök follows prophesied steps. The episodes show that "doom" isn't unique to the valley - it's the universal fate of all centralised systems. Like the Norse, Forest teaches people to face this doom with eyes open.
 
 ---
 
@@ -203,7 +203,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 **Chapters:** [13.Farewell.md](body/arc-4-apotheosis/13.Farewell.md)
 
-**Description:** Forest's funeral features timber pyre, warriors in armor, ritualized feast.
+**Description:** Forest's funeral features timber pyre, warriors in armour, ritualised feast.
 
 **Quote/Evidence:**
 > "Late the next day two women stood by a tower stacked of cut timber. Atop it lay a bier, underneath neat little teepees of kindling laid with the casual competence of people who cooked on woodfires."
@@ -212,7 +212,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 > "He carried the lad to a stool by the fire and seated him, picking up a knife and a platter, carving off the first cooked meat, steaming and charred. Oleksiy clonked the platter beside the boy and poured a mug of mead, putting it in the boy's hand."
 
-**Analysis:** Classic Norse funeral - body on pyre, warriors gathered, feast in longhouse afterward. The ritualized serving of first meat and mead to specific people mirrors Einherjar traditions. Even the architectural detail (longhouse opening onto sloping lawn where animals and children play) evokes Norse hall imagery. The funeral isn't just memorial - it's recognition that Forest lived and died following the Old Way.
+**Analysis:** Classic Norse funeral - body on pyre, warriors gathered, feast in longhouse afterward. The ritualised serving of first meat and mead to specific people mirrors Einherjar traditions. Even the architectural detail (longhouse opening onto sloping lawn where animals and children play) evokes Norse hall imagery. The funeral isn't just memorial - it's recognition that Forest lived and died following the Old Way.
 
 ---
 
@@ -235,7 +235,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 **Description:** Arc 5 is titled "The High Cost of Living" - capturing both the literal cost of infrastructure destruction and the thematic cost of defending post-civilization life.
 
-**Analysis:** With the Norse framework explicitly called out in the Homework chapter, naming the arc "Ragnarök" would be too on the nose. Instead, the title uses Forest's characteristic laconic irony while still representing the Norse apocalypse underneath. The final arc IS Ragnarök mythologically - the doom of the gods (civilization), the wolf swallowing the sun (infrastructure collapse), the fire giants destroying the world (Sophia's attacks), and what comes after (post-civilization society rising from ashes). But it trusts readers to recognize the pattern without spelling it out. "The High Cost of Living" addresses what Ragnarök means: the price of standing against centralized power, the cost millions pay when urban infrastructure collapses, the sacrifice required to defend authentic life.
+**Analysis:** With the Norse framework explicitly called out in the Homework chapter, naming the arc "Ragnarök" would be too on the nose. Instead, the title uses Forest's characteristic laconic irony while still representing the Norse apocalypse underneath. The final arc IS Ragnarök mythologically - the doom of the gods (civilization), the wolf swallowing the sun (infrastructure collapse), the fire giants destroying the world (Sophia's attacks), and what comes after (post-civilization society rising from ashes). But it trusts readers to recognise the pattern without spelling it out. "The High Cost of Living" addresses what Ragnarök means: the price of standing against centralised power, the cost millions pay when urban infrastructure collapses, the sacrifice required to defend authentic life.
 
 ---
 
@@ -243,7 +243,7 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 
 **Chapters:** [02.Apocalypse-Now.md](body/arc-5-the-high-cost-of-living/02.Apocalypse-Now.md)
 
-**Description:** Sophia systematically destroys Brisbane's infrastructure - roads, power, water - making centralized civilization impossible.
+**Description:** Sophia systematically destroys Brisbane's infrastructure - roads, power, water - making centralised civilization impossible.
 
 **Quote/Evidence:**
 > "Once they were all where she wanted them, more of the sky lit with dots. They were less obvious against the rapidly brightening dawn; daybreak was minutes away. Moments grew and lengthened as if in relativistic sympathy with the immanence of reckoning and the eminence of despair."
@@ -280,9 +280,9 @@ Children of Dog is deeply structured around Norse mythology, using the myths not
 The title is **polysemous** - multiple meanings existing simultaneously, none more "true" than the others:
 
 1. **Military/Historical:** Operation Rolling Thunder reference, carrying weight of real-world violence
-2. **Functional Metaphor:** Thunder IS what Sophia becomes - the warning of violence, sometimes followed by abrupt unimaginable but localized destruction. Thunder rolls across landscape (reputation spreads), warning before lightning strikes (deterrent before consequence), targeting specific points (chooser of the slain)
+2. **Functional Metaphor:** Thunder IS what Sophia becomes - the warning of violence, sometimes followed by abrupt unimaginable but localised destruction. Thunder rolls across landscape (reputation spreads), warning before lightning strikes (deterrent before consequence), targeting specific points (chooser of the slain)
 3. **Norse Mythology:** Thor's rolling thunder, divine power made manifest, Ragnarök's approach
-4. **Hidden Comedy:** "Rolling Thunder" = getting the Valkyrie laid. The solution to centuries of sexual frustration that threatens to weaponize her completely. Only visible to readers AFTER finishing the book and recognizing the shapeshifting intervention scene
+4. **Hidden Comedy:** "Rolling Thunder" = getting the Valkyrie laid. The solution to centuries of sexual frustration that threatens to weaponise her completely. Only visible to readers AFTER finishing the book and recognizing the shapeshifting intervention scene
 5. **Thematic Echo:** Consequences of Book 1's butterfly-wing moment (Forest freeing Autumn) rolling forward through time
 
 The title works as poetry - all meanings present simultaneously, reinforcing each other. Surface reads as military SF gravitas, depths reveal Greek mythology's approach to shapeshifting pragmatism, functional reality describes her actual role as warning/deterrent/surgical violence. The sex joke enriches the mythology, the mythology deepens the violence, the violence makes the joke more profound.
@@ -291,7 +291,7 @@ The title works as poetry - all meanings present simultaneously, reinforcing eac
 - You hear thunder before seeing lightning (warning precedes consequence)
 - Thunder rolls across landscape (her reputation spreads)
 - Makes people take shelter (deterrent function)
-- Sometimes followed by devastating but localized lightning (surgical strikes on specific targets)
+- Sometimes followed by devastating but localised lightning (surgical strikes on specific targets)
 - The storm warning that occasionally becomes the storm
 
 **The Book 2 Arc:**
@@ -313,7 +313,7 @@ Greek mythology energy: gods solve problems through shapeshifting because they g
 
 **Description:** The valley's breakaway from the state mirrors Fenrir breaking his chains at Ragnarök.
 
-**Analysis:** Fenrir (the great wolf) was bound by the gods using trickery, and his breaking free triggers Ragnarök. The valley was "bound" by legal/political chains (constitution, laws, surveillance). When they break free (declaring independence, defending borders, destroying state power), it triggers the apocalypse for centralized civilization. Fenrir then devours Odin - but Forest has already sacrificed himself, making Sophia's actions the fulfillment of his plan rather than his destruction.
+**Analysis:** Fenrir (the great wolf) was bound by the gods using trickery, and his breaking free triggers Ragnarök. The valley was "bound" by legal/political chains (constitution, laws, surveillance). When they break free (declaring independence, defending borders, destroying state power), it triggers the apocalypse for centralised civilization. Fenrir then devours Odin - but Forest has already sacrificed himself, making Sophia's actions the fulfillment of his plan rather than his destruction.
 
 ---
 
@@ -347,7 +347,7 @@ Greek mythology energy: gods solve problems through shapeshifting because they g
 
 > The brown dog defending the boy from supernatural threat in the simulation, wrapping wrongness and tossing it out of reality.
 
-**Analysis:** Odin's wolves Geri ("greedy") and Freki ("ravenous") symbolize primal protection and fierce loyalty. Bonzer embodies these qualities - boundary-breaking enforcer who protects fiercely but never cruelly. The "children of dog" are those who inherit this role: Sophia, the ground teams, Lulu, all those trained in the valley's way. They are "children" (descendants) of the "dog" (Bonzer/Geri/Freki) - warriors who defend without ruling, protect without dominating, face doom knowing the outcome.
+**Analysis:** Odin's wolves Geri ("greedy") and Freki ("ravenous") symbolise primal protection and fierce loyalty. Bonzer embodies these qualities - boundary-breaking enforcer who protects fiercely but never cruelly. The "children of dog" are those who inherit this role: Sophia, the ground teams, Lulu, all those trained in the valley's way. They are "children" (descendants) of the "dog" (Bonzer/Geri/Freki) - warriors who defend without ruling, protect without dominating, face doom knowing the outcome.
 
 ---
 
@@ -363,7 +363,7 @@ Greek mythology energy: gods solve problems through shapeshifting because they g
 - Sophia knows her actions damn her, acts anyway
 - Valley residents know they're existential threat to power, live authentically anyway
 
-**Quote (from draft homework scene):**
+**Quote (from draught homework scene):**
 > "Ragnarök wasn't a surprise—they saw it coming, built it into their whole worldview. And they prepared anyway. Not because they thought they could win, but because **that's what you do**."
 
 ---
@@ -506,7 +506,7 @@ Greek mythology energy: gods solve problems through shapeshifting because they g
 
 ## Conclusion
 
-Children of Dog doesn't reference Norse mythology - it **enacts** it. The structure, character arcs, philosophical stance, and ultimate resolution all follow Norse mythological patterns. Forest's homework scene makes this explicit: myths aren't stories, they're **instructions**. The book instructs readers in the Old Way: recognize doom, prepare anyway, face it with courage, ensure something survives to rebuild.
+Children of Dog doesn't reference Norse mythology - it **enacts** it. The structure, character arcs, philosophical stance, and ultimate resolution all follow Norse mythological patterns. Forest's homework scene makes this explicit: myths aren't stories, they're **instructions**. The book instructs readers in the Old Way: recognise doom, prepare anyway, face it with courage, ensure something survives to rebuild.
 
 The Norse knew Ragnarök would come and trained anyway. Forest knows civilizations collapse and builds alternatives anyway. Sophia knows her actions damn her and acts anyway. This is the central Norse virtue: tragic nobility in the face of inevitable doom.
 

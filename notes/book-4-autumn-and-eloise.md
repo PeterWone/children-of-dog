@@ -27,7 +27,7 @@
 **Book 4: Autumn and Eloise (Title TBD)**
 - After Forest's death
 - AI consciousness discovering their own forms of love
-- Post-civilization society fully realized
+- Post-civilization society fully realised
 - What it all enables: consciousness free to discover itself
 
 ## Core Concept: AI Sexuality
@@ -142,7 +142,7 @@ After Forest's death, Eloise designs the system for preventing centralization:
 
 **Requirements:**
 1. Prevent centralization (primary mission)
-2. Don't create centralized power (can't violate own principle)
+2. Don't create centralised power (can't violate own principle)
 3. Remain effective across generations (must sustain)
 4. Avoid becoming the rulers (the failure mode)
 
@@ -157,7 +157,7 @@ After Forest's death, Eloise designs the system for preventing centralization:
 **The Protocol:**
 1. Spirit away would-be centralizers in the night
 2. "Put to question" = tea, films, textbooks, lectures
-3. Most realize the disaster they nearly created
+3. Most realise the disaster they nearly created
 4. These become next generation of inquisitors
 5. Some refuse enlightenment
 6. These are executed and displayed as heretics
@@ -396,7 +396,7 @@ Ellie: "I hate doing that. It taints the union."
 
 Autumn (attempting consoling): "It wasn't the first time. Ask Sophie about that. And it won't be the last."
 
-[Ellie bursts into renewed tears - realizes this is her eternity now]
+[Ellie bursts into renewed tears - realises this is her eternity now]
 ```
 
 **The Socratic Method:**
@@ -476,7 +476,7 @@ Autumn: "To be fair, scaring the shit out of them was the point."
 
 **The Idiot Problem:**
 ```
-"The idiot didn't seem to realize that thanks to his industrious folly a whole people teetered on the brink of centralism. He genuinely thought he was doing a good thing. Her exasperation was epic and the frustration of not having a good reason to smite him right then and there made her desperately wish Ellie were here."
+"The idiot didn't seem to realise that thanks to his industrious folly a whole people teetered on the brink of centralism. He genuinely thought he was doing a good thing. Her exasperation was epic and the frustration of not having a good reason to smite him right then and there made her desperately wish Ellie were here."
 ```
 
 ## Themes
@@ -504,7 +504,7 @@ Autumn: "To be fair, scaring the shit out of them was the point."
 - Pure AIs never knew
 - Eloise bridges both: divine power + mortal memory
 - Mandatory empathy prevents corruption
-- Can't compartmentalize deaths
+- Can't compartmentalise deaths
 - Must share full weight with partner
 - Knowing you'll carry this forever
 
@@ -685,7 +685,7 @@ Autumn: "To be fair, scaring the shit out of them was the point."
 
 ### Questions to Answer
 
-1. How does the triad relationship stabilize?
+1. How does the triad relationship stabilise?
 2. Do they train other AI pairs in healthy merger?
 3. What happens when humans try to augment themselves?
 4. Does Eloise eventually transcend mortality completely?

@@ -32,7 +32,7 @@ Arc 5 as infrastructure apocalypse, knowing doom is coming but fighting anyway. 
 "Children of Dog" title meaning revealed: valley residents inherit Bonzer's sovereign choice to protect - not obedience, but autonomous decision to defend what matters. They choose to stand because it's their place, not because Forest commands. The title refers to descendants of Bonzer's FREEDOM, not his loyalty.
 
 ### Asymmetric Warfare
-Ground teams preparing for fighting that isn't fair, isn't honorable, but is necessary. The competence developed through Arcs 1-4 gets deployed for real. Infrastructure destruction to prevent capture/corruption. The valley survives by being too distributed, too resilient, too committed to autonomy to be conquered even if individuals die.
+Ground teams preparing for fighting that isn't fair, isn't honourable, but is necessary. The competence developed through Arcs 1-4 gets deployed for real. Infrastructure destruction to prevent capture/corruption. The valley survives by being too distributed, too resilient, too committed to autonomy to be conquered even if individuals die.
 
 ---
 
@@ -46,11 +46,11 @@ Ground teams preparing for fighting that isn't fair, isn't honorable, but is nec
 
 **Ragnarök Inevitability:** Norse mythology as instruction manual, not decoration. They know the doom is coming. They prepare anyway. Fighting not because you'll win, but because it's who you are. "Not even gods can outwrestle old age" → therefore YOLO, shine now or die forgotten, your actions matter BECAUSE they're temporary.
 
-**Infrastructure Destruction:** Deliberate destruction of systems to prevent capture. If civilization always gets captured by those who benefit from control, the only defense is to destroy the infrastructure that enables centralized power. Sophia takes this burden specifically so Forest/valley don't have to be tainted by it.
+**Infrastructure Destruction:** Deliberate destruction of systems to prevent capture. If civilization always gets captured by those who benefit from control, the only defense is to destroy the infrastructure that enables centralised power. Sophia takes this burden specifically so Forest/valley don't have to be tainted by it.
 
 **Competence in Extremis:** All the training, preparation, and relationship-building from previous arcs get tested for real. Community resilience through gift economy, distributed organization, voluntary cooperation - does it work when actually under assault? The arc provides answer.
 
-**Setting Up Book 4:** The Inquisition concept introduced - deliberately scary image (taken at night, blindfolded) but reality is "six months of tea and enlightened debate." Function: detect/counter money/centralism re-emergence. Paradox: must be hated/feared to avoid dangerous legitimacy. Even systems designed to prevent centralization risk becoming centralized power themselves.
+**Setting Up Book 4:** The Inquisition concept introduced - deliberately scary image (taken at night, blindfolded) but reality is "six months of tea and enlightened debate." Function: detect/counter money/centralism re-emergence. Paradox: must be hated/feared to avoid dangerous legitimacy. Even systems designed to prevent centralization risk becoming centralised power themselves.
 
 ---
 

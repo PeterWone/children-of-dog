@@ -12,7 +12,7 @@ Early in 2025, while writing this tale, I invented a political event that marked
 
 This greatly disturbed me, but having predicted it so accurately made me think I might be onto something. In the medium of a power fantasy, I began exploring what was going wrong and why. This is well-trodden ground, but I leave Orwell behind in having an answer for it. 
 
-My view of government and corporations isn't popular, but it's consistent: I see government as organized crime that dials back the brutality for the same reason a farmer is nice to his herd. The protective services exist not for the benefit of the protected, but to maintain a productive resource. If you don't think this is true, try telling the government you've decided you don't want its services and you won't be re-ordering at the end of the tax year.
+My view of government and corporations isn't popular, but it's consistent: I see government as organised crime that dials back the brutality for the same reason a farmer is nice to his herd. The protective services exist not for the benefit of the protected, but to maintain a productive resource. If you don't think this is true, try telling the government you've decided you don't want its services and you won't be re-ordering at the end of the tax year.
 
 Orwell's dystopia was unlikely for the attention and resources it lavished on tormenting individuals. It was a very focused and personal mustache-twirling sadism. Modern Australia does have a Ministry of Truth and ubiquitous surveillance thanks to the internet, but is content to torture its subjects with banality, provided they do as they're told and never challenge state authority. The farmer really doesn't care what the cattle think.
 

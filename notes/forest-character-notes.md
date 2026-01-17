@@ -6,7 +6,7 @@ Forest has lived a life of relative privilege, though unconventional. His rare a
 
 ### Employment Pattern
 - Could never hold a job for more than two years (with one exception)
-- Employers eventually realized he was "farming them" - extracting knowledge, skills, and experience rather than committing as a loyal employee
+- Employers eventually realised he was "farming them" - extracting knowledge, skills, and experience rather than committing as a loyal employee
 - He treated positions as learning opportunities and training grounds
 - Would move on once he'd absorbed what he wanted from the role
 - Never suffered or wanted for much materially due to his high-value skillset
@@ -36,7 +36,7 @@ This background explains several aspects of his character:
 - Understanding of extractive relationships (having been on that side himself)
 - Strong views on money decoupling benefit from consequence (speaks from experience)
 - Natural fit for the valley's non-transactional community model
-- Ability to recognize and reject conventional career paths
+- Ability to recognise and reject conventional career paths
 
 ### Forest-First Philosophy (Without Greed)
 - Operates on a clear "Forest-first" policy in all decisions
@@ -44,7 +44,7 @@ This background explains several aspects of his character:
 - Once basic needs are met (well-fed, intellectually engaged), wealth holds no interest
 - Never pursued empire-building or monopolistic domination despite having rare skills
 - Extracted what he needed from employers, not everything he could have taken
-- The distinction: self-interested but not greedy; prioritizes autonomy over accumulation
+- The distinction: self-interested but not greedy; prioritises autonomy over accumulation
 - Content with sufficiency rather than maximization
 
 ### From Security to Generosity
@@ -88,7 +88,7 @@ There's an apparent irony in Forest's philosophical stance against extraction an
 - Not letting him off the hook despite his changed nature
 
 ### Dynamic
-- Complex marriage: not idealized partnership
+- Complex marriage: not idealised partnership
 - Forest provides material support (possibly out of guilt/obligation rather than affection)
 - Trixie accepts but frames it as owed rather than gifted
 - Mutual accommodation rather than romance

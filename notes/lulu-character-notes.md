@@ -4,7 +4,7 @@
 
 ### Identity Transformation
 - **Not "becoming violent" but "becoming violence"**
-- She didn't learn to fight—she was weaponized
+- She didn't learn to fight—she was weaponised
 - Violence isn't something she *does*, it's what she *is*
 - The transformation is complete and permanent
 - She's not a girl who shoots guns—she's a tactical problem-solver whose physical form happens to be a small human
@@ -26,7 +26,7 @@ Everything is either:
 
 **Bruce (Father Figure/Mentor)**
 - Combat AI in multiple Terminator chassis
-- Teaches her to optimize for survival, not style
+- Teaches her to optimise for survival, not style
 - They have perfect non-verbal coordination
 - She bought him a main cannon with spatial anchor as a gift (first thought after becoming Vanguard)
 - He wears ridiculous costumes (Victorian dress with fruit basket, tutus, etc.)
@@ -63,7 +63,7 @@ Walking toward a wave of Antithesis:
 - Scenario: Impossible rescue (wounded teammate, overwhelming force)
 - Her solution: Execute the "wounded" to end suffering
 - Two shots to the head: "Bang, bang"
-- Cold tactical calculus: extraction impossible, minimize casualties
+- Cold tactical calculus: extraction impossible, minimise casualties
 - This defines her character—efficiency over sentiment
 
 ### School Bully Incident
@@ -190,7 +190,7 @@ Genuinely surprised when experienced fighters haven't studied movement patterns.
 ### Civilian Incomprehension
 "Why do they always talk about rules when things are trying to eat them?"
 
-Can't understand why civilians prioritize:
+Can't understand why civilians prioritise:
 - Social norms over survival
 - Safety protocols over effectiveness
 - Appearances over results

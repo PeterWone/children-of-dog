@@ -103,7 +103,7 @@ Series of rescue attempts showing different personality types and responses:
 
 ### Phase 4: Reunion at Valley (Key Emotional Chapter)
 
-**Setting:** Gunship lands. Husband waiting. Kids traumatized/thrilled. Wife shaking from adrenaline.
+**Setting:** Gunship lands. Husband waiting. Kids traumatised/thrilled. Wife shaking from adrenaline.
 
 **Her Realization:**
 - He KNEW the plan
@@ -170,7 +170,7 @@ Series of rescue attempts showing different personality types and responses:
 - Reframes husband as savior
 - Public shaming for integration
 
-**The Trap:** She's told to stop feeling, for the kids, to honor savior, because she got special treatment. Every angle covered. Can't argue without looking selfish/ungrateful/entitled.
+**The Trap:** She's told to stop feeling, for the kids, to honour savior, because she got special treatment. Every angle covered. Can't argue without looking selfish/ungrateful/entitled.
 
 **Husband's Position:** Someone publicly defended him by calling his wife worthless except as his appendage. His response determines if marriage survives:
 - Agree? (Marriage probably over)
@@ -203,7 +203,7 @@ Because she doesn't know she's paying it. The price is becoming a Norn herself:
 - Taking on pattern-weaving responsibility
 - Manipulating others "for their own good"
 - Carrying weight of making outcomes "inevitable"
-- Cannot un-see patterns once you recognize them
+- Cannot un-see patterns once you recognise them
 - Shaping new arrivals through techniques used on her
 
 **The Norn Self-Replication Mechanism:**
@@ -211,8 +211,8 @@ Because she doesn't know she's paying it. The price is becoming a Norn herself:
 1. **Rescue from destructive conflict** → she feels saved
 2. **Process trauma with pattern recognition** → she learns to read people
 3. **Discover her competence** → turns out she's GOOD at understanding social dynamics
-4. **Help other traumatized arrivals** → naturally expresses newfound skill
-5. **Become pattern-weaver** → realizes (or doesn't) she's doing to others what was done to her
+4. **Help other traumatised arrivals** → naturally expresses newfound skill
+5. **Become pattern-weaver** → realises (or doesn't) she's doing to others what was done to her
 6. **Accept role** → because it works, because people need it, because she's good at it
 
 **The Truth:** She escaped Odin-pattern manipulation (husband/valley pressure) into Norns' care... and became a Norn herself. They identified latent pattern-recognition/social intelligence, processed her through trauma into clarity, guided her toward helping others, and watched her become one of them. Self-replicating social architecture disguised as compassion.
@@ -233,7 +233,7 @@ The choosing was inevitable once Norns processed her. Free will performed perfec
 
 Not reconciliation. Not forgiveness. **Keeping him on the straight and narrow.**
 
-After Norn training, she recognized:
+After Norn training, she recognised:
 - He needs stability to remain productive
 - His skills are vital to valley
 - Unstable specialist is liability
@@ -256,7 +256,7 @@ After Norn training, she recognized:
 
 **What He Thinks:**
 
-"She came back. She forgives me. She realized I was right - I made the hard choice and it paid off. She respects that now. Marriage is stronger for it. Valley respects me, wife respects me, I'm integrated and valued. We survived this together."
+"She came back. She forgives me. She realised I was right - I made the hard choice and it paid off. She respects that now. Marriage is stronger for it. Valley respects me, wife respects me, I'm integrated and valued. We survived this together."
 
 He has no idea the dynamic has shifted. She lets him believe reconciliation because believing it keeps him stable. He thinks he won the argument. She thinks she's helping him - and she is.
 
@@ -290,7 +290,7 @@ Range Mothers watching reunion:
 - "Good for him, good for her, good for valley"
 - "That's what family does"
 
-Valley women recognize the dynamic. Valley men see successful reconciliation. Norns see successful pattern completion. Everyone wins.
+Valley women recognise the dynamic. Valley men see successful reconciliation. Norns see successful pattern completion. Everyone wins.
 
 **The Uncomfortable Truth:**
 
@@ -391,12 +391,12 @@ The mirror is uncomfortable. That's the point.
 - Use coercion/manipulation temporarily for extraction
 - "Needs must as the devil drives"
 - Psychological manipulation preferred over force
-- Honor commitments even when unenforceable
+- Honour commitments even when unenforceable
 - Multiple aircraft/teams show resource commitment
 
 **Deception as Mercy:**
 - Wife manipulated for her own protection
-- Genuine distress weaponized tactically
+- Genuine distress weaponised tactically
 - Protects from neighbors, not just operational security
 - Social collapse faster than infrastructure collapse
 - Being seen accepting help makes you target
@@ -406,7 +406,7 @@ The mirror is uncomfortable. That's the point.
 **Morrison's Gift:**
 - Sees sequential infrastructure collapse
 - Identifies competent people worth saving
-- Throws lifelines to those who will recognize pattern
+- Throws lifelines to those who will recognise pattern
 - Lets deniers die (Commissioner)
 - Each rescue proves pattern recognition value
 
@@ -415,7 +415,7 @@ The mirror is uncomfortable. That's the point.
 - Doctor denies until shown evidence
 - Family man trusts despite uncertainty
 - Refuser denies pattern, dies
-- Hostile recognizes but opposes, neutralized
+- Hostile recognises but opposes, neutralised
 
 ## Odin Pattern Without Forest
 
@@ -517,7 +517,7 @@ I/we shift shows: Morrison personally recruited, valley collectively values spec
 - Competence over comfort (marriage might not survive)
 - Pattern recognition saves lives
 - Deception as mercy and manipulation
-- Gift economy includes honoring others' commitments
+- Gift economy includes honouring others' commitments
 - Free will vs. being moved between manipulators
 - Cost of extraction nobody calculated
 
@@ -556,9 +556,9 @@ Sets up contrast with:
 6. **Morrison's fate?** Does he stay with valley or return to dying cities?
 7. **Phillip's integration?** Does pilot become valley resident?
 8. **Gunship origin?** Valley asset or acquired during extraction operations?
-9. **Range Mothers' processing method?** How do they shape traumatized arrivals into Norns?
+9. **Range Mothers' processing method?** How do they shape traumatised arrivals into Norns?
 10. **Marriage outcome?** Does she return to keep him "on the straight and narrow"?
-11. **His awareness?** Does he ever realize the dynamic shifted, or remain convinced he "won"?
+11. **His awareness?** Does he ever realise the dynamic shifted, or remain convinced he "won"?
 12. **Community role?** What does she do in valley beyond managing specialist husband?
 
 ## Dialogue Gems to Preserve
@@ -578,7 +578,7 @@ Sets up contrast with:
 
 This sequence demonstrates valley philosophy at its most uncomfortable: ruthlessly effective, morally ambiguous, psychologically manipulative for good ends, and completely unwilling to pretend survival is comfortable.
 
-The wife's journey from civilian to traumatized survivor to unwilling emigrant to Norn-in-training mirrors reader's journey from sympathy to discomfort to recognition that there are no clean answers.
+The wife's journey from civilian to traumatised survivor to unwilling emigrant to Norn-in-training mirrors reader's journey from sympathy to discomfort to recognition that there are no clean answers.
 
 **The Norn Transformation:** What appears to be rescue and support is also recruitment and shaping. She learns pattern-recognition ostensibly to help herself integrate, but discovers she's good at it, applies it to helping others, and becomes a pattern-weaver herself. If she returns to marriage, it's not reconciliation but caring control - keeping specialist "on the straight and narrow" while genuinely believing it's loving support. Which it is. And also strategic management. Both true simultaneously.
 

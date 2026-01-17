@@ -2,7 +2,7 @@
 
 ## Core Story Promise
 
-"A man who recognized civilization's fatal pattern withdrew to prepare for collapse. Aliens arrived first. Now his valley becomes the test case for post-civilization society."
+"A man who recognised civilization's fatal pattern withdrew to prepare for collapse. Aliens arrived first. Now his valley becomes the test case for post-civilization society."
 
 ## What Arc 1 Must Accomplish
 
@@ -77,7 +77,7 @@ Signal this IMMEDIATELY.
 - Adaptation (becomes Vanguard)
 
 **Existing material to combine**:
-- Escape/Before: drafted in notes/prelude.md
+- Escape/Before: draughted in notes/prelude.md
 - Woodland: existing 005.Woodland.md
 - Transition: "Five years later" break
 
@@ -188,7 +188,7 @@ Bat app03. Patterns in Shifting Sand (MOVE to later
 - Research station deal on Gerry's property
 - Forest and Autumn plan to control tech flow
 
-**Why this works**: External forces recognize valley's importance. Stakes escalate beyond personal survival.
+**Why this works**: External forces recognise valley's importance. Stakes escalate beyond personal survival.
 
 ---
 
@@ -215,7 +215,7 @@ Bat app03. Patterns in Shifting Sand (MOVE to later
 - Site assessment
 - Understanding community integration requirements
 
-**Why this works**: Singh represents science done RIGHT - respects community, prioritizes logistics over ego.
+**Why this works**: Singh represents science done RIGHT - respects community, prioritises logistics over ego.
 
 ---
 
@@ -228,7 +228,7 @@ Bat app03. Patterns in Shifting Sand (MOVE to later
 - Oleksiy's practical expertise
 - Construction as community activity
 
-**Why this works**: Shows integration through shared work. Competence recognized and celebrated.
+**Why this works**: Shows integration through shared work. Competence recognised and celebrated.
 
 ---
 
@@ -239,7 +239,7 @@ Bat app03. Patterns in Shifting Sand (MOVE to later
 **Purpose**:
 - Trix's systematic social engineering (gift economy)
 - Scientists become residents
-- Sophia recognizes community formation
+- Sophia recognises community formation
 - "Culture eats strategy for breakfast"
 
 **Why this works**: Demonstrates core thesis - community more resilient than organization. Gift economy shown not explained.
@@ -294,7 +294,7 @@ Bat app03. Patterns in Shifting Sand (MOVE to later
 - **009. Building** - Construction begins, Chen transforms
 
 ### Climax Movement: Transformation & Cost
-- **010. Integration** - Gift economy, Sophia recognizes community (THEMATIC CENTERPIECE)
+- **010. Integration** - Gift economy, Sophia recognises community (THEMATIC CENTERPIECE)
 - **011. Playing with Fire** - Training escalates, threats evolve
 - **012. The Only Way to Be Sure** - Four researchers killed, PMC security required (ARC 1 CLIMAX)
 
@@ -309,7 +309,7 @@ Must establish:
 - Fore1. Failure Modes (Combined Chapter)
 **~3500-4000 words total**
 
-**Part 1: Escape** (~800 words - DRAFTED in notes/prelude.md)
+**Part 1: Escape** (~800 words - DraughtED in notes/prelude.md)
 - Workshop scene: emissions system failure
 - "Six hundred dollars to plug in computer"
 - "I'm done with this bullshit"
@@ -368,7 +368,7 @@ Must establish:
 - Pattern recognition central from word one
 - Not running FROM something, preparing FOR something
 Combine two pieces into ONE new chapter (001.Failure Modes)
-  - Part 1: Draft in notes/prelude.md
+  - Part 1: Draught in notes/prelude.md
   - Part 2: Existing 005.Woodland.md
   - Part 3: ~200 word framing transition
 - One chapter moved (015.Patterns → 003, positioned contextually)
@@ -421,7 +421,7 @@ Combine two pieces into ONE new chapter (001.Failure Modes)
 
 ## Next Steps
 
-1. **Draft 000.Before** - the withdrawal-decision scene
+1. **Draught 000.Before** - the withdrawal-decision scene
 2. **Review Woodland** - add 2-3 lines referencing cold open
 3. **Decide on Crocs-et-'Em** - Arc 2 opening or cut?
 4. **Renumber chapters** - clean sequence
@@ -442,7 +442,7 @@ Combine two pieces into ONE new chapter (001.Failure Modes)
 ## Story Promise Check
 
 Does this structure deliver on:
-- ✅ "Man who recognized civilization's fatal pattern" - 000.Before establishes
+- ✅ "Man who recognised civilization's fatal pattern" - 000.Before establishes
 - ✅ "withdrew to prepare for collapse" - 000.Before → Woodland transition
 - ✅ "Aliens arrived first" - Woodland delivers
 - ✅ "valley becomes test case for post-civ society" - Integration demonstrates

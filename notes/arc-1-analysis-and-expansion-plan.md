@@ -14,7 +14,7 @@
 
 **06. Off the Beaten Track** - Extensive building montage. Technical detail grounded in character experience. Strong execution.
 
-**08. When the Sky Falls** - Forest weaponized, Autumn AI introduction. Tone inconsistency (comedy vs. survival tension) in second half. Needs tightening.
+**08. When the Sky Falls** - Forest weaponised, Autumn AI introduction. Tone inconsistency (comedy vs. survival tension) in second half. Needs tightening.
 
 **09. Getting Started** - **WEAK**. Vanguard equipment arrival, Autumn relationship. Currently outline-level material. Lacks dramatization.
 
@@ -83,7 +83,7 @@ Result: Each beat rushed. Needs expansion into multiple chapters.
 - Scientists recruited as "interns"
 - Ends with: "What could _possibly_ go wrong?"
 
-**11B. Banana** (NEW - dramatize Macintyre bull incident)
+**11B. Banana** (NEW - dramatise Macintyre bull incident)
 - Open with cattle lowing from south
 - Macintyre boys arrive, open fire on dog weeds
 - Forest arrives with pills
@@ -93,7 +93,7 @@ Result: Each beat rushed. Needs expansion into multiple chapters.
 - Aftermath: Brain damage question, anatomical naming joke
 - Thematic weight: Community interdependence, Forest's role expanding beyond his valley
 
-**11C. Creek Hive** (NEW - dramatize creek destruction)
+**11C. Creek Hive** (NEW - dramatise creek destruction)
 - Discovery: hive in the creek bed
 - Problem: Don't want to damage landscape
 - Granite bed is igneous - can use SPNKr
@@ -103,7 +103,7 @@ Result: Each beat rushed. Needs expansion into multiple chapters.
 - Trix's insistence on safety gear validated
 - Aftermath: Oleksiy's oblique remark about divots, Forest's apology
 
-**11D. The Kids Get to Play** (NEW - dramatize conventional incursions)
+**11D. The Kids Get to Play** (NEW - dramatise conventional incursions)
 - Fourth and fifth hives are "more like a conventional incursion"
 - "Orders of magnitude feebler" but still dramatic for the kids
 - Forest with SPNKr (his "lovely time")
@@ -140,17 +140,17 @@ Current chapter tries to do too much. Split into:
 
 **07. [Title TBD]** - Gap between Off the Beaten Track (Ch 6) and When the Sky Falls (Ch 8)
 - Ch 6 ends with extensive building complete
-- Ch 8 begins with Forest weaponized and Autumn introduced
+- Ch 8 begins with Forest weaponised and Autumn introduced
 - Missing: How does Vanguard find Forest? First contact? Decision to accept?
 - This is a CRITICAL transition
 
 ---
 
-## Prioritized Drafting Plan
+## Prioritized Draughting Plan
 
 ### Phase 1: Fix Critical Structural Issues
 
-**1. Draft Chapter 07 - First Contact**
+**1. Draught Chapter 07 - First Contact**
 - How Vanguard/Protectorate identifies Forest as candidate
 - First contact scenario (during incursion? after? unsolicited?)
 - Forest's decision-making process (why accept?)
@@ -159,7 +159,7 @@ Current chapter tries to do too much. Split into:
 
 **RATIONALE**: This is the missing keystone. Without it, the transition from "building a homestead" to "fighting aliens with advanced tech" is jarring.
 
-**2. Draft Chapter 11B - Banana (Macintyre Bull)**
+**2. Draught Chapter 11B - Banana (Macintyre Bull)**
 - Full dramatization of existing summary
 - Community interdependence
 - Horror of zombie worm
@@ -168,7 +168,7 @@ Current chapter tries to do too much. Split into:
 
 **RATIONALE**: This material already exists in outline form. Expanding it is straightforward and demonstrates the expansion model for other weak sections.
 
-**3. Draft Chapter 11C - Creek Hive**
+**3. Draught Chapter 11C - Creek Hive**
 - Full dramatization of creek hive destruction
 - Technical problem (don't damage landscape) + solution (SPNKr on igneous granite)
 - Action sequence (kaboom, debris, visor saving Forest)
@@ -194,14 +194,14 @@ Current chapter tries to do too much. Split into:
 
 ### Phase 3: Fill Remaining Gaps
 
-**6. Draft Chapter 03**
+**6. Draught Chapter 03**
 - Bridge between Horsing Around and Analytical Engine
 - Possibly Shoalwater Bay flashback
 - Or: Return to valley, dam planning
 
-**RATIONALE**: Need to understand what this gap represents before drafting. May require consultation on intended narrative flow.
+**RATIONALE**: Need to understand what this gap represents before draughting. May require consultation on intended narrative flow.
 
-**7. Draft Chapter 11D - The Kids Get to Play**
+**7. Draught Chapter 11D - The Kids Get to Play**
 - Conventional incursions (fourth and fifth hives)
 - Community defense coming together
 - Kids get to use Flesh Melters
@@ -272,7 +272,7 @@ Each new/expanded chapter must pass **The Fountain Scene Test** (Chapter 02 stan
 
 ## Next Steps
 
-**Immediate action**: Draft Chapter 07 (First Contact)
+**Immediate action**: Draught Chapter 07 (First Contact)
 - This unlocks the arc structure
 - Explains how Forest goes from builder to Vanguard
 - Sets up everything that follows
@@ -286,7 +286,7 @@ Each new/expanded chapter must pass **The Fountain Scene Test** (Chapter 02 stan
 
 ---
 
-## Notes for Drafting
+## Notes for Draughting
 
 ### Voice Consistency
 - **Third-person past tense** throughout
@@ -346,6 +346,6 @@ Each new/expanded chapter must pass **The Fountain Scene Test** (Chapter 02 stan
 
 **Total chapter count after expansion**: 15-16 chapters
 
-**Critical path**: Draft Chapter 07 first (unlocks structure), then expand Chapter 11 (demonstrates model)
+**Critical path**: Draught Chapter 07 first (unlocks structure), then expand Chapter 11 (demonstrates model)
 
 **Quality standard**: Chapter 02 "Horsing Around" - that's the bar every chapter must meet

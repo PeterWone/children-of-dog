@@ -126,7 +126,7 @@ Arc-2-domain has several numbered gaps and opportunities to expand:
 **Character Development:**
 - Shows Forest with kids (not just Lulu later)
 - Demonstrates valley culture in practice
-- Sets up Range Mothers emergence (mothers watching realize their kids CAN do this)
+- Sets up Range Mothers emergence (mothers watching realise their kids CAN do this)
 
 ---
 
@@ -190,7 +190,7 @@ These four chapters form a mini-arc about hunting down the seeds that DIDN'T get
 - Sophia seeing her people's competence outside lab
 - The confidence from three successes
 - The crushing discovery that model has limits
-- Fifth site: realize seeds don't follow physics perfectly
+- Fifth site: realise seeds don't follow physics perfectly
 - Some alien factor in seed behavior
 - Radio Forest: "We need Autumn's modeling"
 - Autumn's analysis: seeds actively steer using wind resistance

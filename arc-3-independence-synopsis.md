@@ -45,7 +45,7 @@ The following chapters from Arc 3 require reading and detailed synopsis:
 - Government/corporate visitors experiencing valley culture
 - Gift economy versus extraction economy tensions
 - Competence demonstrations at scale
-- Norse mythology parallels becoming more explicit (homework scene drafts)
+- Norse mythology parallels becoming more explicit (homework scene draughts)
 - Preparation for asymmetric warfare
 
 ---

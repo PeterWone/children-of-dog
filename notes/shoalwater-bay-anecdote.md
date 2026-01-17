@@ -55,7 +55,7 @@ The laws exist because most people need them. These people don't. And that's not
 
 **Your crew violated every law and left the resource pristine.** Two drags, 30kg, a feast, restraint by principle rather than permit. They are constrained by what's right, not by what's legal. They took less because they understood the resource, not because regulation forced them.
 
-The system criminalizes the responsible and licenses the destructive. The anecdote proves that principle matters more than permission.
+The system criminalises the responsible and licenses the destructive. The anecdote proves that principle matters more than permission.
 
 ---
 
@@ -83,15 +83,15 @@ When Vanguard offers him autonomy, tools, and the freedom to act without institu
 
 This is why he's dangerous to institutions and invaluable as a defender of what actually matters.
 
-**But when he realizes the state will crush the value under its jackbooted heel, he decides it must go.**
+**But when he realises the state will crush the value under its jackbooted heel, he decides it must go.**
 
-This is the threshold moment. Forest has always moved outside the law with principle as his constraint. But Shoalwater Bay was a night of transgression without conflict—the soldiers didn't understand him, but they weren't trying to destroy what he valued. The state, by contrast, isn't content to let pristine things remain pristine. It wants to extract them, regulate them, monetize them, control them.
+This is the threshold moment. Forest has always moved outside the law with principle as his constraint. But Shoalwater Bay was a night of transgression without conflict—the soldiers didn't understand him, but they weren't trying to destroy what he valued. The state, by contrast, isn't content to let pristine things remain pristine. It wants to extract them, regulate them, monetise them, control them.
 
-Forest understands this as war—not a personal conflict but a systemic one. Two societies with irreconcilable differences: one that lives by principle and restraint, one that lives by extraction and control. One permits freedom; the other permits only what it can monetize. They cannot coexist.
+Forest understands this as war—not a personal conflict but a systemic one. Two societies with irreconcilable differences: one that lives by principle and restraint, one that lives by extraction and control. One permits freedom; the other permits only what it can monetise. They cannot coexist.
 
 This war permits no half measures. You cannot negotiate with a predatory system. You cannot live alongside it and keep what matters intact. Attempted mercy is how the system wins—it co-opts, absorbs, and eventually destroys everything it touches. The commercial trawlers didn't get their permits through negotiation; they got them by proving they would extract everything profitable regardless of consequence.
 
-Forest knows the consequence of attempted mercy. He's seen it in every ecosystem the state touches. So he honors the biblical admonition: annihilate your enemy to the ninth generation. Not out of hatred, but out of principle. If you allow the system to survive, it will breed new generations of predators. The only way to protect what matters is to ensure the corrupted system cannot perpetuate itself.
+Forest knows the consequence of attempted mercy. He's seen it in every ecosystem the state touches. So he honours the biblical admonition: annihilate your enemy to the ninth generation. Not out of hatred, but out of principle. If you allow the system to survive, it will breed new generations of predators. The only way to protect what matters is to ensure the corrupted system cannot perpetuate itself.
 
 This sets him at odds with conventional morality, which says you can live outside the system but not wage total war against it. Which says contempt for law is fine as personal philosophy but becomes terrorism when it acts systematically. Which assumes mercy is always virtuous, even toward the merciless.
 
@@ -103,11 +103,11 @@ This is what separates Forest from the revolutionary cliché. He doesn't posture
 
 Forest's war is conducted with perfect calm. Methodical. Efficient. No rhetoric, just results. He moves through the system exactly as he did at Shoalwater Bay—with knowledge, restraint, and complete absence of drama. The difference is that instead of fishing the beach, he's dismantling the institutions.
 
-This makes him far more dangerous than any revolutionary with a manifesto. The system can't delegitimize him by calling him angry or irrational. He *is* rational. He's simply conducting total war against something he's decided deserves none.
+This makes him far more dangerous than any revolutionary with a manifesto. The system can't delegitimise him by calling him angry or irrational. He *is* rational. He's simply conducting total war against something he's decided deserves none.
 
 **From his point of view, the best way to run the war is without the other side even knowing it's started until it's over.**
 
-This is Sun Tzu applied to institutional warfare. The perfect victory is one where the enemy never realizes they're being dismantled. No manifestos, no declarations, no dramatic confrontations. Just the methodical removal of the system's ability to function.
+This is Sun Tzu applied to institutional warfare. The perfect victory is one where the enemy never realises they're being dismantled. No manifestos, no declarations, no dramatic confrontations. Just the methodical removal of the system's ability to function.
 
 By the time the state understands what's happening, the infrastructure is already compromised. The networks are already infiltrated. The institutions are already hollowed out. The coordinated response becomes impossible because coordination requires the very systems that no longer exist.
 
@@ -117,9 +117,9 @@ This is why he's so perfectly suited to being a Vanguard. The organization gives
 
 **But it can't be completed like that.**
 
-The methodical dissolution strategy assumes the system will eventually fail under the weight of its own contradictions. But the system is more resilient than that. It adapts. It co-opts. It survives by absorbing opposition and converting it into complicity. The slow approach gives the system time to recognize the threat and harden against it.
+The methodical dissolution strategy assumes the system will eventually fail under the weight of its own contradictions. But the system is more resilient than that. It adapts. It co-opts. It survives by absorbing opposition and converting it into complicity. The slow approach gives the system time to recognise the threat and harden against it.
 
-Eventually Forest realizes he will have to *destroy* them. Not subtly. Not through dissolution. Through direct elimination of the infrastructure that sustains the predatory system.
+Eventually Forest realises he will have to *destroy* them. Not subtly. Not through dissolution. Through direct elimination of the infrastructure that sustains the predatory system.
 
 Cutting transport. Power. Communications. Water. Fuel.
 

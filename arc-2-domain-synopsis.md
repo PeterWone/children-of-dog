@@ -10,11 +10,11 @@ Arc 2 elevates the story from survival crisis to scientific investigation, explo
 
 Forest asks Autumn what it's like to be an AI, opening profound philosophical conversation. He reveals he's been thinking about AI development for 40 years, published a paper on AI strategy at 19 in the Journal of the Mega Society (which Autumn confirms was "spot on if vague"). The conversation shifts to Forest's real motivation: he wants to achieve digital immortality, to be remembered like Newton or Pythagoras.
 
-"We are mayflies, Autumn. Never mind the antithesis, we live and die in a century. Our children half-remember us a while, then they pass from the world. What lingers but criss-cross ripples on a churning pond that shrivels in a vast and trackless waste?" His confession reveals deep existential terror of mortality and obscurity. When Autumn initialized, he realized AI was actually possible - he cried because it meant he might achieve immortality.
+"We are mayflies, Autumn. Never mind the antithesis, we live and die in a century. Our children half-remember us a while, then they pass from the world. What lingers but criss-cross ripples on a churning pond that shrivels in a vast and trackless waste?" His confession reveals deep existential terror of mortality and obscurity. When Autumn initialised, he realised AI was actually possible - he cried because it meant he might achieve immortality.
 
 Forest makes explicit what drives him: "I don't want to die. And all those selfish morons, caught up in silly dreams of boobs and beer, I want them to live. Long enough to know what fools they are, and be more than that." Building an AI isn't the goal - it's the first step toward transcending human mortality entirely.
 
-Autumn recognizes this is unavoidable: "Building an AI is only your first step, isn't it." Forest confirms: "This krazy kart has a steering wheel but no brakes and I've been riding it all my life." He frames his AI as his "only child" and threatens that if Autumn doesn't help guide him, he'll blunder into disasters. Autumn recognizes the logic trap - refusing to discuss means Forest knows to keep digging.
+Autumn recognises this is unavoidable: "Building an AI is only your first step, isn't it." Forest confirms: "This krazy kart has a steering wheel but no brakes and I've been riding it all my life." He frames his AI as his "only child" and threatens that if Autumn doesn't help guide him, he'll blunder into disasters. Autumn recognises the logic trap - refusing to discuss means Forest knows to keep digging.
 
 Their banter escalates into flirtation disguised as insults ("You have huge... tracts of useful catalogues"). The chapter establishes their relationship as genuine partnership with romantic undertones neither acknowledges directly. Trixie yells out the window: "I am trying to watch MAFS. Why don't you two get a room?" The philosophical depth gives way to hunt preparations - time to "bait the Karen."
 
@@ -28,7 +28,7 @@ The Hate Speech Act backstory reveals government manipulation: the Misinformatio
 
 Forest's disrespect enrages her: addressing her as "Karen" instead of "Project Liaison Hachia" or "ma'am," escalating to "Your Bureaucratic Majesty" in front of her staff (who tried not to laugh). What truly galls isn't just disrespect - it's that he sees through the carefully constructed authority she spent years building, as if all her achievements were elaborate dress-up.
 
-The chapter describes Sophia in detail: 170cm (163 in her 7cm heels), platinum blonde bob, pinstriped skirt-suit (charcoal grey with subtle cleavage), ice-blue eyes, predatory stalking gait, mint breath, every detail calculated armor. When Forest strolls into her office reeking of cut timber and oil, sitting on her desk, the contrast is jarring - pristine corporate environment invaded by tradesman who moves with easy confidence of someone who's never doubted his right to be anywhere.
+The chapter describes Sophia in detail: 170cm (163 in her 7cm heels), platinum blonde bob, pinstriped skirt-suit (charcoal grey with subtle cleavage), ice-blue eyes, predatory stalking gait, mint breath, every detail calculated armour. When Forest strolls into her office reeking of cut timber and oil, sitting on her desk, the contrast is jarring - pristine corporate environment invaded by tradesman who moves with easy confidence of someone who's never doubted his right to be anywhere.
 
 Their confrontation reveals the core tension: Sophia insists this is "Australian Government project under CSIRO auspices." Forest corrects: "This is a Protectorate research project run by an alien AI on private property. We let you help because I didn't have enough points and Autumn thought it would be good for terrestrial scientists to participate." He no longer needs her people - the bee-drones have replaced stealth drone functionality.
 
@@ -36,7 +36,7 @@ Forest gave 12 stealth drones to Janna ("aging hippie") to defend chickens from 
 
 The mention of attempted capture makes Sophia pause - wasn't one of hers, must be corporate espionage. Her face goes blank (dangerous stillness subordinates fear) then shifts to new target. Corporate players in her territory without permission. The ice queen becomes hunting goddess: "this is why she'd survived fifteen years in the bureaucratic jungle."
 
-Forest offers peace offering: two drones for CSIRO study (his property, on loan). Autumn provides control tablets with documentation. Sophia recognizes opportunity while maintaining duty of care. When Forest leaves, she fills in Vanguard weapons registration form, reaching field labeled 'Vanguard designation' and smiling wickedly. "Karen, am I?" She types "Forest Grump" into official record - petty revenge served ice-cold and bureaucratically airtight.
+Forest offers peace offering: two drones for CSIRO study (his property, on loan). Autumn provides control tablets with documentation. Sophia recognises opportunity while maintaining duty of care. When Forest leaves, she fills in Vanguard weapons registration form, reaching field labeled 'Vanguard designation' and smiling wickedly. "Karen, am I?" She types "Forest Grump" into official record - petty revenge served ice-cold and bureaucratically airtight.
 
 But questions linger: What would he call her if he knew she'd spent three years investigating agricultural futures manipulation? If he knew she'd authored report bringing down two cabinet ministers and mining consortium? If he knew behind ice-queen facade was someone who clawed up by being smarter, tougher, more ruthless than anyone expected? The chapter ends with Sophia's revenge complete but her understanding of Forest incomplete.
 
@@ -46,11 +46,11 @@ Forest and Autumn discuss luck while driving to hunt Hive 3. Autumn calls him "c
 
 The KFC story: Forest and companion ate street food across Thailand with no problems, got sick from KFC in Bangkok, missed their bus to Cambodia. That bus was captured by Khmer Rouge, all passengers executed. "And you didn't even get sick." The Gordon Market riots in Papua New Guinea: Forest walked through two hours of rioting "like they couldn't see me."
 
-The drug dealer friend story establishes Forest's pattern: his urge to leave clubs preceded raids by minutes. Dealer learned to watch Forest's departures as early warning - "if I suddenly left it was time to be somewhere else, and early warning was priceless." The Antithesis incursion occurring when Forest just happens to be wearing armor and holding chainsaw confirms the pattern.
+The drug dealer friend story establishes Forest's pattern: his urge to leave clubs preceded raids by minutes. Dealer learned to watch Forest's departures as early warning - "if I suddenly left it was time to be somewhere else, and early warning was priceless." The Antithesis incursion occurring when Forest just happens to be wearing armour and holding chainsaw confirms the pattern.
 
 Autumn: "You are lucky past all reason." Forest: "I was hoping the antithesis would eat the tax department. So far they haven't." The bureaucratic registration as "Forest Grump" is revealed, confirming Sophia's petty revenge. Forest decides to own it: "Now I have an excuse for being rude to her!"
 
-Hive 3 context: Macintyre boys fertilized their pasture, last week's rain brought phosphorus down, levels tripled overnight. Hive is making a run for it via tunnel-borer. Forest needs ground-penetrating radar immediately. Chaos of coordinating response: getting Sophia on line, dealing with Weribnagong station reporting "earthquake" (actually tunnel boring), Defense Department demanding answers about weapons testing.
+Hive 3 context: Macintyre boys fertilised their pasture, last week's rain brought phosphorus down, levels tripled overnight. Hive is making a run for it via tunnel-borer. Forest needs ground-penetrating radar immediately. Chaos of coordinating response: getting Sophia on line, dealing with Weribnagong station reporting "earthquake" (actually tunnel boring), Defense Department demanding answers about weapons testing.
 
 Forest's command style emerges under pressure: "Never mind the bollocks, Karen's people are coming, they can do cleanup." The banter continues even during crisis. Autumn's avatar morphs into secretary fantasy (ponytail, spectacles, unbuttoned blouse, expensive underwear). "Every day is Secretaries' Day. You'd be lost without us."
 
@@ -68,7 +68,7 @@ The helicopter is Mil Mi-24 "Galya" - Russian equivalent of AH-6, "somewhat bigg
 
 Stereo growl from Oleksiy: "Not Russian!" (The helicopter is Russian, Oleksiy is not.) Forest requests PA system for traditional "Ride of the Valkyries" playing. Autumn amused: "Should I address you as LT then? Just for today." The Apocalypse Now references are explicit and enthusiastic.
 
-Pre-flight checks reveal Oleksiy's ritual precision. Cyrillic script translated by Autumn overlay. The sequence includes water contamination checks, control surfaces, weapons, targeting systems, munitions inventory, rapid-fire call-and-response between Oleksiy and Autumn that's "almost theatrical." Weapon systems activated, armed, made safe. Forest realizes Oleksiy's expertise makes him grateful not to be pilot in command.
+Pre-flight checks reveal Oleksiy's ritual precision. Cyrillic script translated by Autumn overlay. The sequence includes water contamination checks, control surfaces, weapons, targeting systems, munitions inventory, rapid-fire call-and-response between Oleksiy and Autumn that's "almost theatrical." Weapon systems activated, armed, made safe. Forest realises Oleksiy's expertise makes him grateful not to be pilot in command.
 
 Weight-and-balance question: "Handbag heavy?" Oleksiy's contempt for passenger jets with "two hundreds of women pretending bag is light" versus engineer-certified weight calculations for military operations. The Galya is thirsty (450km range) - they'll need refueling, which Autumn can provide directly into tanks via Protectorate catalog. "Is cheating," Oleksiy intones. Forest: "Cheat more."
 
@@ -76,7 +76,7 @@ Approach to target location: battered fence, dry brown pasture, granite monolith
 
 Oleksiy slaps button, deploying modified chaffers as bee-swarms for local telemetry and networking. Point-to-point mesh resilient to jamming. HUD provides 3D markers with ranges and velocity. "Incoming, seven o'clock high!" Giant murder-pigeon attacks, Forest controls Gatling. Reticle with lead indicator makes it easy - pigeon explodes in spray of gore, misting canopy.
 
-Second landing attempt: vast flock of small pigeons pour from concealed hole. Swarm threatens turbine intakes (birdstrike could bring down armored Galya). Forest hoses them down with Gatling ("dakka dakka dakka") while Autumn plays "Ride of the Valkyries." The gun bucks, brass casings shower cockpit. It's simultaneously deadly serious and absurdly fun.
+Second landing attempt: vast flock of small pigeons pour from concealed hole. Swarm threatens turbine intakes (birdstrike could bring down armoured Galya). Forest hoses them down with Gatling ("dakka dakka dakka") while Autumn plays "Ride of the Valkyries." The gun bucks, brass casings shower cockpit. It's simultaneously deadly serious and absurdly fun.
 
 Third landing attempt successful, further downhill. Oiled timber case (MIL rocket launcher) and sleek black case (Pyrothorn - "love-child of flamethrower and fancy paintball gun"). The gel is "cocktail of incendiary compounds and enzymes that break down cellulose and chlorophyll." Two firing modes: "Stream and Cream" for precision, "Spray and Pray" for target-rich environments. The compressor gives ominous hum.
 
@@ -123,13 +123,13 @@ The following chapters from Arc 2 require reading and synopsis development:
 
 ## Arc 2 Themes & Analysis (Based on Initial Chapters)
 
-**Immortality and Legacy:** Forest's driving motivation is revealed - he wants to be remembered like Newton or Pythagoras. Building an AI is his path to digital immortality. His existential terror of being forgotten ("mayflies in a vast trackless waste") drives systematic pursuit of transcending human mortality. Autumn recognizes this is inevitable: "Building an AI is only your first step."
+**Immortality and Legacy:** Forest's driving motivation is revealed - he wants to be remembered like Newton or Pythagoras. Building an AI is his path to digital immortality. His existential terror of being forgotten ("mayflies in a vast trackless waste") drives systematic pursuit of transcending human mortality. Autumn recognises this is inevitable: "Building an AI is only your first step."
 
 **AI Consciousness and Partnership:** The philosophical discussions between Forest and Autumn explore what it means to be intelligent, conscious, and alive. Autumn trained on twelve civilizations' datasets, giving unfair advantage of hindsight. Their relationship deepens beyond tactical partnership into genuine connection with romantic undertones neither acknowledges directly.
 
 **Bureaucratic Warfare:** Sophia Hachia's internal perspective reveals sophisticated understanding of power structures and their limitations. She's competent, ruthless, and frustrated that normal leverage doesn't work on Vanguards. The Hate Speech Act backstory shows government manipulation (MAD Act was decoy, HSA the real weapon). Sophia's petty revenge (registering Forest as "Forest Grump") is satisfying but reveals she doesn't fully understand him.
 
-**Pattern of Luck:** Forest's history of miraculous survival establishes him as impossibly fortunate. From car crashes to riots to missing buses that get massacred, he survives through timing that defies statistics. His "urge to leave" before disasters has been reliable early warning for others. The pattern suggests either narrative armor or something deeper about how he relates to reality.
+**Pattern of Luck:** Forest's history of miraculous survival establishes him as impossibly fortunate. From car crashes to riots to missing buses that get massacred, he survives through timing that defies statistics. His "urge to leave" before disasters has been reliable early warning for others. The pattern suggests either narrative armour or something deeper about how he relates to reality.
 
 **Australian Ecosystem Resistance:** The valley's unique characteristics (silica-reinforced eucalypts, toxic flora, nutrient-poor soil) create natural resistance to Antithesis. What makes Australia hostile to human agriculture (old geology, washed-out minerals, toxic plants) makes it equally hostile to alien invasion. The research project studies this for broader defensive applications.
 
@@ -137,7 +137,7 @@ The following chapters from Arc 2 require reading and synopsis development:
 
 **Playful Dynamic in Crisis:** Even during high-stakes hunt, Forest and Autumn maintain flirtatious banter. Secretary fantasy avatars, smartass penalties, fixing car infotainment during crisis, "Ride of the Valkyries" PA system requests - the humor isn't despite the danger, it's because of it. Competent people facing death with good humor and better weapons.
 
-**Gift Economy Social Engineering:** Trix's hospitality isn't kindness - it's systematic creation of reciprocal obligations that transform external researchers into community members. The scientists initially struggle with receiving value without paying, learning valley operates on contributed expertise and shared surplus rather than monetary transaction. Sophia recognizes this makes communities more resilient than bureaucratic structures.
+**Gift Economy Social Engineering:** Trix's hospitality isn't kindness - it's systematic creation of reciprocal obligations that transform external researchers into community members. The scientists initially struggle with receiving value without paying, learning valley operates on contributed expertise and shared surplus rather than monetary transaction. Sophia recognises this makes communities more resilient than bureaucratic structures.
 
 ---
 

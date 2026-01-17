@@ -7,7 +7,7 @@
 **This section is provided solely to explain the intent of the License. It is *not* part of the legally binding terms. If anything in this summary conflicts with the operative sections below, the operative sections control.**
 
 - You may create **Derivative Works** (fan fiction, art, comics, music, games, etc.) based on *Stray Cat Strut*.  
-- You may **monetize** your Derivative Works.  
+- You may **monetise** your Derivative Works.  
 - You must be an **individual or a small team (5 or fewer people)**.  
 - You may not copy text directly from the original novels except for brief quotations allowed by fair use/fair dealing.  
 - You retain copyright to your original contributions, but you grant the Author a **perpetual licence** to use any new characters, settings, lore, or other creative elements you introduce.  
@@ -33,7 +33,7 @@ This section constitutes the legally binding agreement.
 
 2. Grant of Rights from Author to Licensee
 
-    1. The Author grants to the Licensee a **non‑exclusive, worldwide, royalty‑free, revocable licence** to create, reproduce, publish, distribute, perform, display, and monetize Derivative Works based on the Licensed Series.  
+    1. The Author grants to the Licensee a **non‑exclusive, worldwide, royalty‑free, revocable licence** to create, reproduce, publish, distribute, perform, display, and monetise Derivative Works based on the Licensed Series.  
     2. This licence includes the right to use the characters, settings, events, iconography, and other expressive elements of the Licensed Series.  
     3. This licence does **not** permit the reproduction of verbatim text from the Licensed Series except for brief quotations permitted under applicable fair use or fair dealing laws.  
     4. No ownership of the Licensed Series is transferred to the Licensee.

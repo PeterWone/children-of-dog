@@ -7,7 +7,7 @@ This concept is rich enough for a full arc exploring the transition from depende
 - **Opening**: "Transaction Declined" - The philosophical establishment that they can't be bought, various rejections of money/funding, culminating in the platinoids/silver negotiation
 - **Development**: "Cultural Exchange" - The Range Mothers' recruitment operation disguised as apprenticeship program
 - **Middle chapters**: The apprentices arriving, initial culture shock, gradual conversion
-- **Complications**: Government realizes what's happening, tries to extract their people
+- **Complications**: Government realises what's happening, tries to extract their people
 - **Resolution**: The apprentices choosing to stay, having become part of the community
 
 This arc would explore:
@@ -58,7 +58,7 @@ A chapter demonstrating true independence through the declining of money - not f
 **The Problem**: 
 - "We have processes?"
 - Documentation would kill the organic knowledge transfer
-- Reports would bureaucratize their collaborative experimentation
+- Reports would bureaucratise their collaborative experimentation
 - IP agreements would prevent them from teaching freely
 
 **The Decline**: "The moment we start optimizing for reports instead of results, we stop being what you want to fund. But you're welcome to watch and learn."
@@ -169,7 +169,7 @@ The "money declined" moment becomes not a political statement but a natural cons
 
 **Their Response**: Rather than retreat, they double down. They begin advertising that they will consider a limited number of direct applications - applications made in person, with accommodation provided during the evaluation process.
 
-**The Trap**: This isn't desperation or defiance. It's the Range Mothers turning the State's own move against it. By requiring in-person applications, they guarantee that every potential applicant gets the full immersion experience that made the original exchange program so "dangerous" to state interests. The scheming pack of mata haris have essentially created a honeypot disguised as reasonable accommodation - weaponized hospitality at its finest.
+**The Trap**: This isn't desperation or defiance. It's the Range Mothers turning the State's own move against it. By requiring in-person applications, they guarantee that every potential applicant gets the full immersion experience that made the original exchange program so "dangerous" to state interests. The scheming pack of mata haris have essentially created a honeypot disguised as reasonable accommodation - weaponised hospitality at its finest.
 
 **Casual Revelations**: The real conversion happens during mundane moments. A ground team returns with someone rigid in a Woundsock - what looks like a body bag to the horrified guests. His wife barely glances up from her work, gives him an earful about being careless, and asks them to put him on the bed please. The next morning he's sitting up asking for tea, and she's telling him "You're white as a sheet down one side and half your beard is missing. You look ridiculous. And don't think you're staying home tomorrow, I told Eric you'd be on deck, Team B is doing the prep for the music festival. You're on the spit after that, Forest said regrowth is tiring." 
 
@@ -187,7 +187,7 @@ She looked at him archly. "As Mrs Marsh would say, 'It _does_ get in.' The nanit
 
 Maria had managed to make an innocent toothpaste advertisement absolutely filthy. The poor devil would never forget - not the incredible display of strength, not the military hardware, and certainly not the sex education lesson about nanite transmission delivered with a wicked grin. If he could think about anything other than Maria with her legs in the air, it could be months before his brain fully processed the technological implications.
 
-The guests realize they're not just visiting a strange forest skunkworks - they're witnessing capabilities that make their home governments' best medical technology look primitive.
+The guests realise they're not just visiting a strange forest skunkworks - they're witnessing capabilities that make their home governments' best medical technology look primitive.
 
 **The Cognitive Shift**: It's one thing to see impressive agriculture or elegant engineering. It's another to watch someone casually resurrect what appears to be a corpse while discussing dinner plans. These aren't just competent people living simply - these are people with access to technologies and knowledge that redefine what's possible.
 
@@ -209,8 +209,8 @@ The ship of state is sinking. Whether you go down with it is up to you.
 
 Bruce's effectiveness with Lulu stems from applying his psychological warfare systems in reverse. His psyops capabilities are designed to break enemy morale by inducing helplessness and loss of control. The direct complement - "anti-psyops" - restores agency and builds confidence.
 
-When he found Lulu traumatized under a table in Glen Innes, he instinctively applied reverse psychological warfare: put her on his shoulders (literally on top of the situation), gave her meaningful tasks (spotting, trigger control), made her an active participant in the solution rather than a passive victim.
+When he found Lulu traumatised under a table in Glen Innes, he instinctively applied reverse psychological warfare: put her on his shoulders (literally on top of the situation), gave her meaningful tasks (spotting, trigger control), made her an active participant in the solution rather than a passive victim.
 
-Combat psychology is combat psychology - whether breaking enemies or rebuilding allies, the principles are the same. Bruce treats Lulu like a fellow combatant because his systems recognize this is what she needs to heal and develop strength. His ridiculous costumes and matter-of-fact discussions of violence aren't quirks - they're deliberate applications of his understanding that she needs to be treated as competent rather than fragile.
+Combat psychology is combat psychology - whether breaking enemies or rebuilding allies, the principles are the same. Bruce treats Lulu like a fellow combatant because his systems recognise this is what she needs to heal and develop strength. His ridiculous costumes and matter-of-fact discussions of violence aren't quirks - they're deliberate applications of his understanding that she needs to be treated as competent rather than fragile.
 
-This makes him uniquely qualified to train someone who's been traumatized by powerlessness. He understands exactly how to rebuild what trauma destroys.
+This makes him uniquely qualified to train someone who's been traumatised by powerlessness. He understands exactly how to rebuild what trauma destroys.

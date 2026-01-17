@@ -8,7 +8,7 @@ Based on review of existing chapters and the synopsis, identifying narrative gap
 
 **Opportunity:** Show one of their meetings - their arguments over the lists, their personality profiling sessions. Who's the psych grad? Who resisted? Who had the breakthrough insight? Give them voices, faces, conflicts.
 
-**Potential scene:** A range meet that turns into strategic planning. The moment they realize what they're actually doing ("This is rebellion"). The argument that nearly broke them apart before they unified.
+**Potential scene:** A range meet that turns into strategic planning. The moment they realise what they're actually doing ("This is rebellion"). The argument that nearly broke them apart before they unified.
 
 ## 2. The Actual Recruitment
 
@@ -70,12 +70,12 @@ Based on review of existing chapters and the synopsis, identifying narrative gap
 ### Arc 2 → Arc 3 Transition  
 **Gap**: Synopsis says "government/corporate visitors arrive" but we don't see their arrival or initial culture shock. When did the compound get built? Who came first?
 
-**Opportunity**: Show the first corporate delegation arriving expecting a meeting room and finding a caravan. Their confusion. The moment they realize they're dealing with something unprecedented.
+**Opportunity**: Show the first corporate delegation arriving expecting a meeting room and finding a caravan. Their confusion. The moment they realise they're dealing with something unprecedented.
 
 ### Arc 4 → Arc 5 Transition
 **Gap**: Treadmill series explains civilization collapse brilliantly, but how does theoretical understanding become "we need to prepare for war"? What's the trigger?
 
-**Opportunity**: The moment someone in government realizes what the valley represents as an existential threat to state power. The memo that changes everything.
+**Opportunity**: The moment someone in government realises what the valley represents as an existential threat to state power. The memo that changes everything.
 
 ### Forest's Death
 **Gap**: "Apocalypse Now" mentions Forest died three days ago (Autumn tells the helicopter pilot). But there's no death scene, no funeral, no grief. He's just... gone.
@@ -94,7 +94,7 @@ But it needs *something* or readers will be confused.
 **Current**: Young Vanguard → valley defender → weeping warrior who disappears
 **Gap**: Missing the middle. When does she stop being government's eyes and become valley's sword? What changes her?
 
-**Opportunity**: Show the conversion moment. Maybe she tries to report something and realizes she *can't* - not because Autumn stops her, but because she no longer wants to. The horror of that realization.
+**Opportunity**: Show the conversion moment. Maybe she tries to report something and realises she *can't* - not because Autumn stops her, but because she no longer wants to. The horror of that realization.
 
 ### Trixie
 **Gap**: She's Forest's anchor but largely silent. What does she *do* all day? What's her role in the valley beyond being "Forest's woman"?
@@ -104,7 +104,7 @@ But it needs *something* or readers will be confused.
 ### Oleksiy
 **Gap**: "Semi-retired professional" with "operational skills" who helped mothers' club with personality profiling. But what's his actual backstory? How did he end up in the valley?
 
-**Opportunity**: Brief reveal - conversation with Eric or Sophia where they realize exactly *what* kind of professional he was. The kind who knows how to kill cities (foreshadowing Arc 5).
+**Opportunity**: Brief reveal - conversation with Eric or Sophia where they realise exactly *what* kind of professional he was. The kind who knows how to kill cities (foreshadowing Arc 5).
 
 ### Lulu/Chloe
 **Gap**: Synopsis mentions her as representing competence philosophy and being "transformed by Vanguard technology" but she barely appears. What happened to her? What did the transformation mean?
@@ -114,7 +114,7 @@ But it needs *something* or readers will be confused.
 ### The Valley Kids
 **Gap**: They triggered the mothers' club revolution but we never see them except glimpses of Lisbeth (who's younger, different generation).
 
-**Opportunity**: Show them. Their competence. Their casual assumption that adults who can't do things are strange. The moment they realized their parents didn't know how good things could be.
+**Opportunity**: Show them. Their competence. Their casual assumption that adults who can't do things are strange. The moment they realised their parents didn't know how good things could be.
 
 ## Thematic/Philosophical Gaps
 

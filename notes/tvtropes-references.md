@@ -79,7 +79,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 
 > "In the widening gyre the falcon turned and flew away, heedless of the falconer's helpless bleating." - [02.Apocalypse-Now.md](body/arc-5-the-high-cost-of-living/02.Apocalypse-Now.md)
 
-**Analysis:** Combines Norse Ragnarök mythology with Yeats' "Second Coming" to invoke grand civilizational collapse. Not just personal apocalypse but systematic destruction of centralized power structures.
+**Analysis:** Combines Norse Ragnarök mythology with Yeats' "Second Coming" to invoke grand civilizational collapse. Not just personal apocalypse but systematic destruction of centralised power structures.
 
 ---
 
@@ -119,7 +119,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 **Chapters:** Throughout
 
 **Quote/Evidence:**
-> _I RESEMBLE THAT REMARK._ - [draft-norse-mythology-homework-scene.md](notes/draft-norse-mythology-homework-scene.md)
+> _I RESEMBLE THAT REMARK._ - [draught-norse-mythology-homework-scene.md](notes/draught-norse-mythology-homework-scene.md)
 
 > _Oh here we go._ - repeated throughout
 
@@ -255,7 +255,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 **Quote/Evidence:**
 > "Grey saw the chessboard in his mind, corner of his mouth twitching up in admiration. He wondered whether he'd have the same commitment himself and briefly envied a the combination of such a pure purpose and the courage to perform a queen sacrifice if it were *him* on the board. But then, the fellow had no choice." - [11.myob.md](body/arc-5-the-high-cost-of-living/11.myob.md)
 
-**Analysis:** Forest wins if ignored (valley left alone) or if killed (becomes martyr, galvanizes resistance, removes himself as target while preserving his teaching). Classic Xanatos Gambit - plan structured so all outcomes advance your goals. Chess metaphor makes it explicit.
+**Analysis:** Forest wins if ignored (valley left alone) or if killed (becomes martyr, galvanises resistance, removes himself as target while preserving his teaching). Classic Xanatos Gambit - plan structured so all outcomes advance your goals. Chess metaphor makes it explicit.
 
 ---
 
@@ -350,7 +350,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 ---
 
 ### Conservation of Ninjutsu (Averted)
-**Manifestation:** Thirty-four armed police sent against valley are systematically neutralized.
+**Manifestation:** Thirty-four armed police sent against valley are systematically neutralised.
 
 **Analysis:** Inverts typical trope where lone hero beats multiple enemies. Here, many defenders with technological advantage defeat many attackers. Numbers matter, preparation matters, tech advantage matters. No mystical "one vs. many" heroics.
 
@@ -384,7 +384,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 
 > Joking about "comfortable apocalypse"
 
-**Analysis:** Realistic military/rural humor - people in dangerous situations use crude jokes to manage stress. Book doesn't sanitize this, presenting authentic voice rather than sanitized dialogue.
+**Analysis:** Realistic military/rural humor - people in dangerous situations use crude jokes to manage stress. Book doesn't sanitise this, presenting authentic voice rather than sanitised dialogue.
 
 ---
 
@@ -430,7 +430,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 
 > Multiple references to recognizing patterns in their own situation
 
-**Analysis:** Characters understand they're living through genre scenarios and comment on it. This is especially true of Forest and Autumn, who explicitly recognize patterns and invoke mythological/narrative archetypes.
+**Analysis:** Characters understand they're living through genre scenarios and comment on it. This is especially true of Forest and Autumn, who explicitly recognise patterns and invoke mythological/narrative archetypes.
 
 ---
 
@@ -512,7 +512,7 @@ Children of Dog is remarkably self-aware about trope usage, often lampshading, d
 ### Hermit Mentor + Active Revolutionary
 **Manifestation:** Forest as both withdrawn sage and active agent of civilization's destruction.
 
-**Analysis:** Hermit mentors usually passive, drawn reluctantly into action. Forest is hermit BY CHOICE to preserve alternative to civilization, but actively works to destroy centralized power when it threatens valley. Combines withdrawal with engagement, teaching with action, wisdom with violence.
+**Analysis:** Hermit mentors usually passive, drawn reluctantly into action. Forest is hermit BY CHOICE to preserve alternative to civilization, but actively works to destroy centralised power when it threatens valley. Combines withdrawal with engagement, teaching with action, wisdom with violence.
 
 ---
 
@@ -559,7 +559,7 @@ Children of Dog demonstrates sophisticated use of tropes - recognizing them as c
 
 1. **Embraces familiar tropes** for efficient characterization (hermit mentor, sarcastic AI, retired badass)
 
-2. **Lampshades awareness** when characters recognize patterns they're in (comfortable apocalypse)
+2. **Lampshades awareness** when characters recognise patterns they're in (comfortable apocalypse)
 
 3. **Deconstructs implications** by taking tropes to logical conclusions (child soldier horror)
 
@@ -569,6 +569,6 @@ Children of Dog demonstrates sophisticated use of tropes - recognizing them as c
 
 The result is genre-savvy narrative that respects reader intelligence while telling engaging story. Tropes aren't crutches or mistakes - they're vocabulary for efficient storytelling about complex ideas.
 
-Most importantly, the book's central theme - that myths/stories are PATTERNS and INSTRUCTIONS rather than entertainment - applies to its own use of tropes. The familiar patterns aren't decoration; they're functional elements teaching readers to recognize and enact necessary responses to civilization's collapse patterns.
+Most importantly, the book's central theme - that myths/stories are PATTERNS and INSTRUCTIONS rather than entertainment - applies to its own use of tropes. The familiar patterns aren't decoration; they're functional elements teaching readers to recognise and enact necessary responses to civilization's collapse patterns.
 
 Just as Forest teaches valley children that Norse myths are instructions for facing doom, the book teaches readers that story tropes are tools for understanding and navigating reality's patterns.

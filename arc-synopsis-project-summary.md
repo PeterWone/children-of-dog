@@ -131,7 +131,7 @@ The story operates simultaneously on all five levels, with early arcs emphasizin
 4. Facilitate others' contributions (expertise, supplies, labor)
 5. Transform external observers into community members
 
-**Result:** Scientists arrive as visiting academics, become valley residents with vested interest in community survival. Corporate representatives observe and recognize commercial implications, but the cultural transformation is already complete.
+**Result:** Scientists arrive as visiting academics, become valley residents with vested interest in community survival. Corporate representatives observe and recognise commercial implications, but the cultural transformation is already complete.
 
 **Parallel:** This is exactly what Forest accuses money/centralism of doing (decoupling benefit from consequences), but in reverse. The gift economy couples benefit to consequences - you receive because you're part of the community, you contribute because the community needs it, the relationship is direct and personal rather than abstracted through currency.
 
@@ -178,7 +178,7 @@ The story operates simultaneously on all five levels, with early arcs emphasizin
 
 **Implications:**
 - Forest uses aristocratic methods (manipulation, strategic vision) for anarchist ends (distributed power, gift economy)
-- He's uncomfortable with this but recognizes necessity
+- He's uncomfortable with this but recognises necessity
 - The story examines whether manipulation for good ends is justified
 - No clean resolution is provided - the tension is meant to be uncomfortable
 
@@ -204,7 +204,7 @@ The story operates simultaneously on all five levels, with early arcs emphasizin
 3. **Government Response:** How does Sophia's transformation affect official policy?
 4. **Research Outcomes:** What does Australian ecology study actually discover/provide?
 5. **Bonzer's Death:** Referenced in notes but circumstances not yet revealed in read text
-6. **Norse Mythology Homework Scene:** Draft exists in notes but not clear if it's in final text
+6. **Norse Mythology Homework Scene:** Draught exists in notes but not clear if it's in final text
 
 ---
 
@@ -239,7 +239,7 @@ The story operates simultaneously on all five levels, with early arcs emphasizin
 
 **For Each Remaining Chapter:**
 1. 2-4 paragraph synopsis covering key events, character moments, thematic development
-2. Note connections to Norse mythology patterns (when characters recognize/enact them)
+2. Note connections to Norse mythology patterns (when characters recognise/enact them)
 3. Track gift economy vs extraction economy examples
 4. Identify civilization collapse pattern discussions
 5. Monitor character transformations (especially Sophia, Lulu)

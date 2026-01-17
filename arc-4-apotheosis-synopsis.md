@@ -43,7 +43,7 @@ This appears to be the thematic heart of the entire novel - Forest teaching kids
 **34. Europe (Spain, Britain):** Colonial extraction and centralism  
 **35. America:** Current iteration, ongoing collapse  
 **36. Centralism:** Core analysis of money/centralism as mutually enabling  
-**37. Metamorphosis:** How to recognize the pattern in progress  
+**37. Metamorphosis:** How to recognise the pattern in progress  
 **38. Getting Off:** Alternative approaches (valley's gift economy model)
 
 ---
@@ -58,7 +58,7 @@ This appears to be the thematic heart of the entire novel - Forest teaching kids
 
 **Forest as Odin:** Preparing successors for doom he knows is coming, manipulating conditions to enable others' freedom, using aristocratic methods (strategic vision, manipulation) for anarchist ends (distributed power, gift economy). The discomfort with this parallel is authentic - author shares it.
 
-**Pattern Recognition as Superpower:** Forest's core capability is seeing patterns others miss. He teaches kids to recognize civilization collapse patterns, gods as recurring patterns not personalities, how current events fit historical templates.
+**Pattern Recognition as Superpower:** Forest's core capability is seeing patterns others miss. He teaches kids to recognise civilization collapse patterns, gods as recurring patterns not personalities, how current events fit historical templates.
 
 **Post-Civilization Alternative:** The valley demonstrates something "not seen for forty thousand years" - human organization without civilization's destructive patterns. Distributed organization, gift economy, voluntary cooperation, selective technology adoption, pattern awareness, deliberate rejection of centralization/money feedback loop.
 
@@ -70,4 +70,4 @@ This appears to be the thematic heart of the entire novel - Forest teaching kids
 
 **Completion:** 0 of 18 chapters read and analyzed  
 **Estimated reading required:** Full arc reading essential, particularly Treadmill sequence (31-38)  
-**Note:** This arc contains the novel's philosophical core and should be prioritized for detailed analysis
+**Note:** This arc contains the novel's philosophical core and should be prioritised for detailed analysis

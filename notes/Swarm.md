@@ -16,7 +16,7 @@ A Lovecraftian comedy horror chapter told through the journal entries of a burea
 - Unnamed bureaucrat sent to audit ammunition usage
 - Career built entirely on forms, procedures, and compliance
 - Classically educated (quotes Shakespeare, understands literary references)
-- Gradually realizes their entire framework is obsolete
+- Gradually realises their entire framework is obsolete
 - Arc: Terror → Confusion → Understanding → Integration
 
 ### The Valley Through Auditor's Eyes
@@ -35,7 +35,7 @@ A Lovecraftian comedy horror chapter told through the journal entries of a burea
 ### The Bees - Communication System
 The children aren't silent—they use Autumn's bees as a distributed communication network:
 - Bees cling to throats and ears
-- Children subvocalize
+- Children subvocalise
 - Autumn picks up the subvocalization and transmits it
 - Words appear directly in the listener's ear via their bee
 - Multiple simultaneous conversations possible
@@ -181,7 +181,7 @@ The children aren't silent—they use Autumn's bees as a distributed communicati
 Should establish the voice immediately - formal, educated, professional, slightly pompous. The first mention of "no doughnuts" sets the mock-serious tone.
 
 ### Rising Action
-Each day should add another layer of wrongness from the auditor's perspective while the reader gradually realizes it's all perfectly normal (or at least, Valley-normal).
+Each day should add another layer of wrongness from the auditor's perspective while the reader gradually realises it's all perfectly normal (or at least, Valley-normal).
 
 ### The Turn
 Somewhere around day 18-19, shift from mounting horror to dawning understanding. The bee speaking might be the catalyst - when the inhuman becomes caring.
@@ -207,7 +207,7 @@ The reader should be slightly ahead of the auditor - understanding what's really
 - They've decided he needs rehabilitation
 
 ### Autumn's Voice
-- Occasional italicized interjections
+- Occasional italicised interjections
 - Starting formal, gradually becoming more familiar
 - The concerned bee question is perfect
 - Maybe jokes he doesn't understand

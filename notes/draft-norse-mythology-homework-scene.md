@@ -1,4 +1,4 @@
-# Draft: Norse Mythology Homework Scene
+# Draught: Norse Mythology Homework Scene
 
 > Multiple versions for reconciliation - voice needs adjustment for consistency
 
@@ -136,7 +136,7 @@ Odin stared at the little twerps with a thoughtful expression. He pondered compe
 
 **Kid 2:** *(quietly, looking at Forest)* "Oh."
 
-**Forest:** "Right. So maybe worry less about whether the **name** is real, and pay more attention to whether the **pattern** is useful. Because if you understand the pattern, you'll recognize it when you see it. Or when you're **in** it."
+**Forest:** "Right. So maybe worry less about whether the **name** is real, and pay more attention to whether the **pattern** is useful. Because if you understand the pattern, you'll recognise it when you see it. Or when you're **in** it."
 
 > _Congratulations. You just explained that you're Odin without saying you're Odin._
 
@@ -200,7 +200,7 @@ Odin stared at the little twerps with a thoughtful expression. He pondered compe
 
 **Key Elements to Preserve:**
 - Forest's practical deconstruction of myths as patterns/instructions
-- The meta-moment where he realizes he's living the Odin pattern
+- The meta-moment where he realises he's living the Odin pattern
 - Kids understanding before adults do
 - Trixie cutting through his denial with the Ragnarök parallel
 - Autumn's sarcastic commentary throughout

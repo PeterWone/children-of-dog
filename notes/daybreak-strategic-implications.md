@@ -18,7 +18,7 @@ A city cannot feed itself. With transportation infrastructure destroyed:
 - No medicine
 - No way out except on foot
 
-The population density that makes centralized control attractive becomes the mechanism of collapse. "Two missed meals and the truth will out"—but now there's no third meal coming.
+The population density that makes centralised control attractive becomes the mechanism of collapse. "Two missed meals and the truth will out"—but now there's no third meal coming.
 
 The people who survive will be those who walk out, carrying what they can, scattering to where food can be grown or hunted.
 
@@ -31,9 +31,9 @@ The cities wink out not with a bang but with an exodus—those who can leave do,
 ## The Trolley Problem at Scale
 
 If Sophia does nothing:
-- Population continues growing, concentrating in cities that can only survive via centralized infrastructure
+- Population continues growing, concentrating in cities that can only survive via centralised infrastructure
 - Wealth polarization increases until the system becomes brittle
-- When it inevitably collapses (and it will—every centralized empire does), three times as many people die
+- When it inevitably collapses (and it will—every centralised empire does), three times as many people die
 - But she won't be there to surgically remove infrastructure; it will be chaotic system failure—disease, starvation, violence on a scale that makes her planned strikes look merciful
 
 Fast forward fifty years, with triple the population and extreme polarization of wealth. The same thing will happen to three times as many people.
@@ -50,15 +50,15 @@ Forest would have given the warning. He might even have given them time to chang
 
 It's only phantom millions in Australia. But after the survivors consolidate and spread into sensibly sized villages placed as the land affords, the rest of the world will see them either as:
 
-1. **The existential threat they are**: These decentralized, resilient villages following "Rule none, and suffer none to rule"—they're an infection vector for the idea. They can't be controlled, can't be taxed efficiently, can't be conscripted. They're proof that you don't need the state. If the idea spreads, every government collapses as people realize they don't need rulers. China, the US, EU—all built on centralized control—see Australia as Patient Zero for a civilizational plague.
+1. **The existential threat they are**: These decentralised, resilient villages following "Rule none, and suffer none to rule"—they're an infection vector for the idea. They can't be controlled, can't be taxed efficiently, can't be conscripted. They're proof that you don't need the state. If the idea spreads, every government collapses as people realise they don't need rulers. China, the US, EU—all built on centralised control—see Australia as Patient Zero for a civilizational plague.
 
-2. **A resource to be seized**: Australia has been depopulated, decentralized, and "conquered" by one woman. Other powers see vulnerability: all those resources, no unified military to defend them, just scattered villages.
+2. **A resource to be seized**: Australia has been depopulated, decentralised, and "conquered" by one woman. Other powers see vulnerability: all those resources, no unified military to defend them, just scattered villages.
 
 Either way, they come. And when they do, Sophia has to make the same choice again—but this time against invasion fleets, carrier groups, maybe even nuclear-armed powers who see her as an existential risk to their very existence.
 
 ## The Deepening Tragedy
 
-She didn't just have to destroy Australia's centralized infrastructure. She's going to have to demonstrate to the entire world that attacking free people is suicide. The plasma strikes in Australia were a *warning shot*. What comes next—when China or the US or whoever decides to "restore order"—that's when the real body count starts.
+She didn't just have to destroy Australia's centralised infrastructure. She's going to have to demonstrate to the entire world that attacking free people is suicide. The plasma strikes in Australia were a *warning shot*. What comes next—when China or the US or whoever decides to "restore order"—that's when the real body count starts.
 
 And she'll have no choice. Because if she doesn't defend those villages, they get crushed, and centralization wins globally for another fifty years. Three times the casualties, worldwide.
 
@@ -66,12 +66,12 @@ Forest's student learned the lesson too well: once you start dismantling empires
 
 ## Symbolism
 
-### White Armor
-This isn't the darkness before dawn—this is the harsh, pitiless daylight of consequences. No shadows to hide in, no comfortable lies. Just the brutal arithmetic of calories and distance. The white armor symbolizes harsh daylight truth, not innocence.
+### White Armour
+This isn't the darkness before dawn—this is the harsh, pitiless daylight of consequences. No shadows to hide in, no comfortable lies. Just the brutal arithmetic of calories and distance. The white armour symbolises harsh daylight truth, not innocence.
 
 ### "Daybreak"
 - Literal: Hundreds of plasma bolts de-orbiting at dawn
-- Metaphorical: End of the "long night" of centralized control
+- Metaphorical: End of the "long night" of centralised control
 - Ironic: Also the beginning of the long, hard day of living with consequences
 
 ### Net Zero
