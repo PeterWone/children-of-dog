@@ -263,6 +263,8 @@ All synopsis files created in project root:
 - `/home/peter/children-of-dog/arc-4-apotheosis-synopsis.md` ⏳ Placeholder
 - `/home/peter/children-of-dog/arc-5-the-high-cost-of-living-synopsis.md` ⏳ Placeholder
 
+Supporting material (Treadmill scripts) now lives in book back-matter, reflecting their role as production notes rather than narrative chapters.
+
 ---
 
 ## Conclusion
