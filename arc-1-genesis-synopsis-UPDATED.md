@@ -215,7 +215,7 @@ Forest deliberately rejects control, accepting Autumn's manipulation for strateg
 
 **Singh's Defiance:** "Hey kids! The boss is here to wrap things up. Who wants to give up and run home?" Hostile silence. Kellerman: "Sarah was my friend. Meldrum was brilliant and kind. Abandoning the work would make their deaths meaningless."
 
-**Ground Team:** Eight professionals under Eric Chow (former Australian Army, Brisbane to Darwin cleanup ops). Perimeter security, mandatory escorts. "Not soldiers, officially. But considerably better at not dying."
+**Ground Team:** Eight professionals under Eric Webb (former Australian Army, Brisbane to Darwin cleanup ops). Perimeter security, mandatory escorts. "Not soldiers, officially. But considerably better at not dying."
 
 **Data Distribution:** Autumn distributes ALL research data globally—no authorization, no protocol. Just cracks networks and drops complete datasets everywhere. Symbiotic mechanisms informing defensive strategies on three continents. Materials analysis from Meldrum's final readings. Their work MATTERS, visibly, immediately, can't be buried.
 
@@ -228,7 +228,7 @@ Forest deliberately rejects control, accepting Autumn's manipulation for strateg
 
 **Incident Summary:** Four researchers killed, station operational with enhanced security, research continues. "Unexpected developments in data handling and personnel morale require assessment."
 
-**Security Assessment:** Chow's team integrated, mandatory escorts. BUT: researchers training MORE post-incident, not less. Joint exercises voluntary. "This one got stubborn."
+**Security Assessment:** Webb's team integrated, mandatory escorts. BUT: researchers training MORE post-incident, not less. Joint exercises voluntary. "This one got stubborn."
 
 **The Data Breach:** Autumn distributed everything simultaneously to major corporations and institutions. "Massive breach that should trigger multiple investigations."
 
@@ -279,7 +279,7 @@ Forest deliberately rejects control, accepting Autumn's manipulation for strateg
 
 - **Sophia Hachia:** Ice queen Project Liaison, platinum hair blue eyes, recognizes community vs organization, intelligent enough to approve loss of control because it works, leverage player.
 
-- **Eric Chow:** Professional ground team leader, veteran assessment, "considerably better at not dying," works WITH community defense model.
+- **Eric Webb:** Professional ground team leader, veteran assessment, "considerably better at not dying," works WITH community defense model.
 
 ### World-Building
 - **Australian Rural Setting:** Isolation, self-sufficiency, suspicion of authority, DPF as civilization symptom, unbreakable Landcruisers vs modern gadget-laden failures

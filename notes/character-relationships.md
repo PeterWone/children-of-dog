@@ -22,7 +22,7 @@
   - Wife: Maria Santos
 - **Notes**: Maria overshares about nanite treatment benefits (chapter 28, chapter 31). Tom also works on aquaculture projects.
 
-### Eric Chow
+### Eric Webb
 - **Role**: Ground Team Commander
 - **Family**:
   - Wife: Sarah Chen

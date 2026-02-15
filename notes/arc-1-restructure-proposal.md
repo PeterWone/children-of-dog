@@ -267,7 +267,7 @@ Bat app03. Patterns in Shifting Sand (MOVE to later
 **Purpose**:
 - Four researchers killed in coordinated ambush
 - Community refuses evacuation
-- Professional security (Eric Chow's PMC) required
+- Professional security (Eric Webb's PMC) required
 - Memorial established
 
 **Why this works**: 
