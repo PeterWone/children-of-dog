@@ -59,7 +59,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 - Stoic, defensive orientation
 - Sees centralization emerging, warns James (ignored initially)
 
-### Dr. Sarah Chen - Urban Vertical Farms
+### Dr. Ilsa Veilsenn - Urban Vertical Farms
 **Background:**
 - Agricultural engineer, PhD sustainable systems
 - Stayed in Brisbane, converted apartment towers
@@ -217,7 +217,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 #### S-2.1: "Vertical Integration"
 **Insertion Point:** After James's "Regional Coordination"
 **Length:** 2,500 words
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 
 **Content:**
 - Brisbane towers abandoned after infrastructure collapse
@@ -237,7 +237,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 #### S-2.2: "Breaking In"
 **Insertion Point:** After James's "Broken Fences"  
 **Length:** 2,500 words
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 
 **Content:**
 - Desperate refugees breaking into towers for food
@@ -261,7 +261,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 #### S-2.3: "Contaminated Rain"
 **Insertion Point:** After James's "Harvest Crisis"
 **Length:** 3,000 words
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 
 **Content:**
 - Antithesis spore contamination in rainfall: water supply poisoned
@@ -434,7 +434,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 #### S-3.1: "Property Rights"
 **Insertion Point:** During Forest's Arc 3 "Unleashed" sequence
 **Length:** 2,500 words
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 
 **Content:**
 - Building owners return: "Thank you for maintaining our property"
@@ -456,7 +456,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 #### S-3.2: "Infrastructure Services"
 **Insertion Point:** Mid Arc 3
 **Length:** 2,500 words
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 
 **Content:**
 - Brisbane City Council: "Restored services require payment"
@@ -481,7 +481,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 #### S-3.3: "The Tower Lords"
 **Insertion Point:** Late Arc 3
 **Length:** 3,000 words
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 
 **Content:**
 - Full recapture: towers operating as corporate food production
@@ -647,7 +647,7 @@ Three smart leaders try alternative approaches to post-Antithesis survival. Each
 ---
 
 #### 5.4: "Tower Evacuation"  
-**POV:** Dr. Sarah Chen
+**POV:** Dr. Ilsa Veilsenn
 **Length:** 2,500 words
 
 **Content:**

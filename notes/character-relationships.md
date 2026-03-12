@@ -25,7 +25,7 @@
 ### Eric Webb
 - **Role**: Ground Team Commander
 - **Family**:
-  - Wife: Sarah Chen
+  - Wife: Sara Webb
 - **Notes**: Sarah is a psych graduate, former HR, now teaches valley children. Makes "communism" joke at barbecue.
 
 ## Other Valley Residents
@@ -55,7 +55,7 @@
 - Sheila Fenaluci (Shorty's wife)
 - Rebecca (recent arrival from Brisbane, grandfather fled communism)
 - Janet Henderson
-- Sarah Chen (Eric's wife)
+- Sara Webb (Eric's wife)
 - Maria Santos (Tom's wife)
 - Others unnamed
 
