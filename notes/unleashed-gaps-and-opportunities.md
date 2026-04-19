@@ -78,7 +78,7 @@ Based on review of existing chapters and the synopsis, identifying narrative gap
 **Opportunity**: The moment someone in government realises what the valley represents as an existential threat to state power. The memo that changes everything.
 
 ### Forest's Death
-**Gap**: "Apocalypse Now" mentions Forest died three days ago (Autumn tells the helicopter pilot). But there's no death scene, no funeral, no grief. He's just... gone.
+**Gap**: "Apocalypse Now" mentions Forest died two years ago (Autumn tells the helicopter pilot). But there's no death scene, no funeral, no grief. He's just... gone.
 
 **Opportunity**: This could be:
 - A major emotional moment (Trixie, the valley, Autumn's response)
